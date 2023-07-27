@@ -4,6 +4,7 @@
 	owner: "ab136f3c-8b6a-4f21-b64d-9532e38aed50"
 	ranks: {
 		ab136f3c-8b6a-4f21-b64d-9532e38aed50: "owner"
+		94843936-854d-4b85-8664-c83b248483f9: "member"
 	}
 	properties: {
 		"ftbteams:display_name": "phi227's Party"
@@ -22,6 +23,11 @@
 		"ftbchunks:claim_visibility": "public"
 		"ftbchunks:location_mode": "allies"
 	}
-	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1690437868293L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"phi227\"}]}" }]
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1690437868293L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"phi227\"}]}" }
+		{ from: "ab136f3c-8b6a-4f21-b64d-9532e38aed50", date: 1690443574154L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"niwatori5709\"}]}" }
+		{ from: "ab136f3c-8b6a-4f21-b64d-9532e38aed50", date: 1690443619979L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"niwatori5709\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1690443634750L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"niwatori5709\"}]}" }
+	]
 	extra: { }
 }

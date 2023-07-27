@@ -1,0 +1,11 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "niwatori5709"
+	last_seen: { dim: "ftbsbc:team/rainier-wiser-stipes", x: -167, y: -60, z: 9, time: 1690455644706L, xRot: 51.900063f, yRot: -45.571045f }
+	recording: 0
+	teleport_history: [ ]
+	homes: { }
+}

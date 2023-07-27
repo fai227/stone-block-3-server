@@ -4,7 +4,7 @@
 	god: false
 	nick: ""
 	name: "phi227"
-	last_seen: { dim: "minecraft:overworld", x: 7, y: 4, z: -10, time: 1690437953732L, xRot: 12.480146f, yRot: -141.58714f }
+	last_seen: { dim: "ftbsbc:team/rainier-wiser-stipes", x: 3, y: 1, z: -1, time: 1690450853358L, xRot: 22.452654f, yRot: -138.38477f }
 	recording: 0
 	teleport_history: [ ]
 	homes: { }

@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "94843936854d4b858664c83b248483f9"
+	name: "niwatori5709"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
