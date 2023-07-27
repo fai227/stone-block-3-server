@@ -1,0 +1,9 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jul 27, 2023, 2:48:58 PM
+
+#ftbsbc:stoneblock_structure_set
+- ftbsbc:start
+- ftbstoneblock:boss_dungeon_set
+- ftbstoneblock:end_city
+- ftbstoneblock:spawner_dungeon
+- ftbdungeons:stone_dungeon_set
+- ftbdungeons:nether0_dungeon_set

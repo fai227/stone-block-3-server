@@ -1,0 +1,5 @@
+[14:48:25] [modloading-worker-0/INFO] [net.creeperhost.minetogether.MineTogether]: Initializing MineTogether!
+[14:48:25] [modloading-worker-0/INFO] [net.creeperhost.minetogether.MineTogetherServer]: Initializing MineTogetherServer!
+[14:48:25] [modloading-worker-0/INFO] [net.creeperhost.minetogether.server.PregenHandler]: Attempting to load pregenData.json
+[14:49:55] [Server thread/INFO] [net.creeperhost.minetogether.MineTogetherServer]: Current discoverability: unlisted
+[14:49:55] [Server thread/INFO] [net.creeperhost.minetogether.MineTogetherServer]: Server set to unlisted. Disabling server listing.

@@ -1,6 +1,6 @@
 {
 	// For modpack creators. Enter your CurseForge project id here.
-	"curseProjectID": "Insert curse project ID here",
+	"curseProjectID": "411209",
 	// For modpack creators. Enter your 'Promo Code' here.
 	"promoCode": "sunekaerjzn",
 	// For modpack creators. The pregen size when selected during orders.
@@ -15,6 +15,8 @@
 	"logChatToConsole": false,
 	// Create _VERY_ verbose logs. May create hugenorums log files.
 	"debugMode": false,
+	// Enables dumping all MTConnect packets to logs.
+	"dumpConnectPackets": false,
 	// If the Chat component of MineTogether is enabled.
 	"chatEnabled": true,
 	// If notifications for friends are enabled.
@@ -27,4 +29,6 @@
 	"firstConnect": "36A8D9170B7E6E9A90AE00A2B9625D704D72FF47F493FF2B8B6BDCCF1AB3FCCD",
 	// If not null, replaces the Bug Reports button on the pause screen to open this link.
 	"issueTrackerUrl": "https://github.com/FTBTeam/FTB-Modpack-Issues",
+	// Stores the currently selected chat TAB, Ether VANILLA or PUBLIC
+	"selectedTab": "PUBLIC",
 }

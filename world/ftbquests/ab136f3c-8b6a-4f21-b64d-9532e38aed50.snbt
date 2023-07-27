@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "ab136f3c8b6a4f21b64d9532e38aed50"
+	name: "phi227"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

@@ -11,7 +11,7 @@
     # Allowed values: true, false - Default: false
     onlyVanillaTools = false
 
-    # What should be the style of the tooltip? 'numbers' means 'Durability: 30 / 100', 'text' means 'Durability: pristine/slight damaged/nearly broken', 'bar' means 'Durability: [â–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’]'
+    # What should be the style of the tooltip? 'numbers' means 'Durability: 30 / 100', 'text' means 'Durability: pristine/slight damaged/nearly broken', 'bar' means 'Durability: [???????????�f??�f??�f??�f??�f??�f??�f]'
     # Allowed values: BAR, NUMBERS, TEXT - Default: NUMBERS
     tooltipStyle = "NUMBERS"
 
