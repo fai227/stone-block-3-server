@@ -1,0 +1,15 @@
+{
+  "name": "ftbdungeons:stone/lootboxes/rare",
+  "fallback": "ftbdungeons:stone/lootboxes/rare",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbdungeons:stone/lootbox/rare/126",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

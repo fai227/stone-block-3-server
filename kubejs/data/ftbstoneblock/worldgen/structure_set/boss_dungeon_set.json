@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ftbstoneblock:boss_dungeon",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 55,
+    "separation": 35,
+    "salt": 123187092
+  }
+}

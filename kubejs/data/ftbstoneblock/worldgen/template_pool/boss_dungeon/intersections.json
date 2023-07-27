@@ -1,0 +1,24 @@
+{
+  "name": "ftbstoneblock:boss_dungeon/intersections",
+  "fallback": "ftbstoneblock:boss_dungeon/intersections",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/intersection_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/intersection_2",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

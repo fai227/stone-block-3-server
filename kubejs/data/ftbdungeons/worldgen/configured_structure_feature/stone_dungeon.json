@@ -1,0 +1,79 @@
+{
+	"config": {
+		"start_pool": "ftbdungeons:stone/initiators/intersection",
+		"size": 5,
+		"min_structure_distance": 250,
+		"min_height": -60,
+		"max_height": 60
+	},
+	"biomes": "minecraft:plains",
+	"adapt_noise": false,
+	"spawn_overrides": {
+		"monster": {
+			"bounding_box": "full",
+			"spawns": [
+				{
+					"type": "minecraft:zombie",
+					"weight": 10,
+					"minCount": 1,
+					"maxCount": 1
+				},
+				{
+					"type": "minecraft:cave_spider",
+					"weight": 0,
+					"minCount": 1,
+					"maxCount": 1
+				},
+				{
+					"type": "minecraft:creeper",
+					"weight": 10,
+					"minCount": 1,
+					"maxCount": 1
+				},
+				{
+					"type": "minecraft:pillager",
+					"weight": 0,
+					"minCount": 1,
+					"maxCount": 1
+				},
+				{
+					"type": "minecraft:silverfish",
+					"weight": 0,
+					"minCount": 1,
+					"maxCount": 1
+				},
+				{
+					"type": "minecraft:skeleton",
+					"weight": 10,
+					"minCount": 1,
+					"maxCount": 1
+				},
+				{
+					"type": "minecraft:spider",
+					"weight": 0,
+					"minCount": 1,
+					"maxCount": 1
+				},
+				{
+					"type": "minecraft:vindicator",
+					"weight": 0,
+					"minCount": 1,
+					"maxCount": 1
+				},
+				{
+					"type": "minecraft:witch",
+					"weight": 5,
+					"minCount": 1,
+					"maxCount": 1
+				},
+				{
+					"type": "minecraft:drowned",
+					"weight": 0,
+					"minCount": 1,
+					"maxCount": 1
+				}
+			]
+		}
+	},
+	"type": "ftbsbc:dungeon_structure_feature"
+}

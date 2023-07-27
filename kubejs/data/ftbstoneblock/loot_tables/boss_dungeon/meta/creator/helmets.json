@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_helmet",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "botania:terrasteel_helmet",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mekanismtools:refined_obsidian_helmet",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "ars_nouveau:archmage_hood",
+          "weight": 1
+        }
+      ]
+    }    
+  ]
+}

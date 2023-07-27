@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "ars_nouveau:belt_of_unstable_gifts"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 7,
+          "name": "botania:speed_up_belt"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "botania:dodge_ring"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "simplemagnets:advancedmagnet"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 7,
+          "name": "botania:knockback_belt"
+        }
+      ]
+    }    
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "chipped:lantern_9",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chipped:lantern_10",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chipped:lantern_11",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chipped:lantern_12",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chipped:lantern_13",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chipped:lantern_14",
+          "weight": 1
+        }
+      ]
+    }    
+  ]
+}

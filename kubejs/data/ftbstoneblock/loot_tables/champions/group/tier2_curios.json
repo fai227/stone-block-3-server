@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "bloodmagic:furnacecell_primitive"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 7,
+          "name": "bloodmagic:sigilofmagnetism"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 7,
+          "name": "ars_nouveau:amulet_of_mana_boost"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "bloodmagic:lavasigil"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "ars_nouveau:ring_of_lesser_discount"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "botania:lava_pendant"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 7,
+          "name": "botania:cloud_pendant"
+        }
+      ]
+    }    
+  ]
+}

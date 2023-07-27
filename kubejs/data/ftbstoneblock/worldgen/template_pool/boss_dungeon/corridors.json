@@ -1,0 +1,222 @@
+{
+  "name": "ftbstoneblock:boss_dungeon/corridors",
+  "fallback": "ftbstoneblock:boss_dungeon/corridors",
+  "elements": [
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/junction_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/junction_2",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/junction_3",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/junction_4",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/junction_5",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/junction_6",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/junction_7",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 43,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/straight_1_part1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 43,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/straight_1_part2",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 43,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/straight_2_part1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 43,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/straight_2_part2",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 43,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/straight_3_part1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 43,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/straight_3_part2",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 43,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/straight_4_part1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 43,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/straight_4_part2",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 43,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/straight_5_part1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 43,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/straight_5_part2",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 43,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/straight_6_part1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 43,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/straight_6_part2",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 86,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/straight_7",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/vertical_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/vertical_2",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/intersection_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/corridors/intersection_2",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

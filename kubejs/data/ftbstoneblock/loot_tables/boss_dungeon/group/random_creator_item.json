@@ -1,0 +1,729 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/axes",
+          "weight": 24,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:fortune": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:efficiency": {
+                  "min": 7,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/boots",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:protection": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:feather_falling": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:depth_strider": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:thorns": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/boots",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:fire_protection": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:feather_falling": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:depth_strider": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:thorns": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/boots",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:blast_protection": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:feather_falling": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:depth_strider": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:thorns": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/boots",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:projectile_protection": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:feather_falling": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:depth_strider": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:thorns": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/bows",
+          "weight": 24,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:infinity": 1,
+                "minecraft:power": {
+                  "min": 7,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/chestplates",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:protection": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:thorns": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/chestplates",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:fire_protection": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:thorns": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/chestplates",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:blast_protection": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:thorns": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/chestplates",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:projectile_protection": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:thorns": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/helmets",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:protection": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:respiration": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:thorns": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/helmets",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:fire_protection": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:respiration": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:thorns": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/helmets",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:blast_protection": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:respiration": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:thorns": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/helmets",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:projectile_protection": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:respiration": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:thorns": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/hoes",
+          "weight": 24,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:fortune": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:efficiency": {
+                  "min": 7,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/leggings",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:protection": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:thorns": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/leggings",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:fire_protection": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:thorns": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/leggings",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:blast_protection": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:thorns": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/leggings",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:projectile_protection": {
+                  "min": 6,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:thorns": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/pickaxes",
+          "weight": 24,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:fortune": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:efficiency": {
+                  "min": 7,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/shovels",
+          "weight": 24,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:fortune": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:efficiency": {
+                  "min": 7,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/swords",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:sharpness": {
+                  "min": 7,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:looting": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "soulshards:soul_stealer": {
+                  "min": 7,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/swords",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:smite": {
+                  "min": 7,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:looting": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "soulshards:soul_stealer": {
+                  "min": 7,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:boss_dungeon/meta/creator/swords",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:bane_of_arthropods": {
+                  "min": 7,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:unbreaking": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "minecraft:looting": {
+                  "min": 5,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                },
+                "soulshards:soul_stealer": {
+                  "min": 7,
+                  "max": 15,
+                  "type": "minecraft:uniform"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

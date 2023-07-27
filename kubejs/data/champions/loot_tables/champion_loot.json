@@ -1,0 +1,229 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "name": "tier#1",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:champions/tier1",
+          "weight": 1,
+          "conditions": [
+            {
+              "condition": "champions:entity_champion",
+              "entity": "this",
+              "minTier": 1,
+              "maxTier": 1
+            },
+            {
+              "condition": "minecraft:killed_by_player"
+            },
+            {
+              "condition": "minecraft:random_chance_with_looting",
+              "chance": 0.7,
+              "looting_multiplier": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tier#1bonus",
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance_with_looting",
+          "chance": 0.0,
+          "looting_multiplier": 0.1
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:champions/tier1",
+          "weight": 1,
+          "conditions": [
+            {
+              "condition": "champions:entity_champion",
+              "entity": "this",
+              "minTier": 1,
+              "maxTier": 1
+            },
+            {
+              "condition": "minecraft:killed_by_player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tier#2",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:champions/tier2",
+          "weight": 1,
+          "conditions": [
+            {
+              "condition": "champions:entity_champion",
+              "entity": "this",
+              "minTier": 2,
+              "maxTier": 2
+            },
+            {
+              "condition": "minecraft:killed_by_player"
+            },
+            {
+              "condition": "minecraft:random_chance_with_looting",
+              "chance": 0.7,
+              "looting_multiplier": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tier#2bonus",
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance_with_looting",
+          "chance": 0.0,
+          "looting_multiplier": 0.1
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:champions/tier2",
+          "weight": 1,
+          "conditions": [
+            {
+              "condition": "champions:entity_champion",
+              "entity": "this",
+              "minTier": 2,
+              "maxTier": 2
+            },
+            {
+              "condition": "minecraft:killed_by_player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tier#3",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:champions/tier3",
+          "weight": 1,
+          "conditions": [
+            {
+              "condition": "champions:entity_champion",
+              "entity": "this",
+              "minTier": 3,
+              "maxTier": 3
+            },
+            {
+              "condition": "minecraft:killed_by_player"
+            },
+            {
+              "condition": "minecraft:random_chance_with_looting",
+              "chance": 0.7,
+              "looting_multiplier": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tier#3bonus",
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance_with_looting",
+          "chance": 0.0,
+          "looting_multiplier": 0.1
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:champions/tier3",
+          "weight": 1,
+          "conditions": [
+            {
+              "condition": "champions:entity_champion",
+              "entity": "this",
+              "minTier": 3,
+              "maxTier": 3
+            },
+            {
+              "condition": "minecraft:killed_by_player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tier#4",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:champions/tier4",
+          "weight": 1,
+          "conditions": [
+            {
+              "condition": "champions:entity_champion",
+              "entity": "this",
+              "minTier": 4,
+              "maxTier": 4
+            },
+            {
+              "condition": "minecraft:killed_by_player"
+            },
+            {
+              "condition": "minecraft:random_chance_with_looting",
+              "chance": 0.7,
+              "looting_multiplier": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tier#4bonus",
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance_with_looting",
+          "chance": 0.0,
+          "looting_multiplier": 0.1
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "ftbstoneblock:champions/tier4",
+          "weight": 1,
+          "conditions": [
+            {
+              "condition": "champions:entity_champion",
+              "entity": "this",
+              "minTier": 4,
+              "maxTier": 4
+            },
+            {
+              "condition": "minecraft:killed_by_player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

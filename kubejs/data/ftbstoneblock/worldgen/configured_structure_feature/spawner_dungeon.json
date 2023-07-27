@@ -1,0 +1,13 @@
+{
+  "type": "ftbsbc:dungeon_structure_feature",
+  "biomes": "minecraft:plains",
+  "adapt_noise": false,
+  "spawn_overrides": {},
+  "config": {
+    "start_pool": "ftbstoneblock:spawner_dungeon/initiators",
+    "size": 1,
+    "min_structure_distance": 200,
+    "min_height": -86,
+    "max_height": 86
+  }
+}

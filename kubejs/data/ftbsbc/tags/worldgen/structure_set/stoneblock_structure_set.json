@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ftbstoneblock:boss_dungeon_set",
+    "ftbstoneblock:end_city",
+    "ftbstoneblock:spawner_dungeon",
+    "ftbdungeons:stone_dungeon_set",
+    "ftbdungeons:nether0_dungeon_set"
+  ]
+}

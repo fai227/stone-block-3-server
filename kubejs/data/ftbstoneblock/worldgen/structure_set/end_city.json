@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ftbstoneblock:end_city",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 23,
+    "separation": 12,
+    "salt": 1435593398
+  }
+}

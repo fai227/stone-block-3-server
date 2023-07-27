@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "thermal:glowstone_grenade",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "thermal:lightning_grenade",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "thermal:ice_grenade",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "thermal:fire_grenade",
+          "weight": 1
+        }
+      ]
+    }    
+  ]
+}

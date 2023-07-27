@@ -1,0 +1,90 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mcwlights:black_lamp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwlights:blue_lamp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwlights:brown_lamp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwlights:cyan_lamp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwlights:gray_lamp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwlights:green_lamp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwlights:light_blue_lamp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwlights:light_gray_lamp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwlights:lime_lamp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwlights:magenta_lamp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwlights:orange_lamp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwlights:pink_lamp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwlights:purple_lamp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwlights:red_lamp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwlights:yellow_lamp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwlights:white_lamp",
+          "weight": 1
+        }
+      ]
+    }    
+  ]
+}

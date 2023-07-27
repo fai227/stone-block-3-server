@@ -1,0 +1,14 @@
+autoJump:false
+mipmapLevels:1
+resourcePacks:["vanilla","mod_resources","file/Slightly-Improved-Font.zip"]
+soundCategory_master:0.5
+soundCategory_music:0.2
+soundCategory_record:1.0
+soundCategory_weather:0.3
+soundCategory_block:1.0
+soundCategory_hostile:1.0
+soundCategory_neutral:1.0
+soundCategory_player:1.0
+soundCategory_ambient:1.0
+soundCategory_voice:1.0
+key_keybind.luggage.call:key.keyboard.unknown

@@ -1,0 +1,59 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "torchbowmod:torchbow"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "supplementaries:bomb_blue",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 4,
+                "type": "minecraft:uniform"
+              }
+            },
+            {
+              "function": "minecraft:looting_enchant",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 7,
+          "name": "botania:travel_belt"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "botania:magnet_ring"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "ars_nouveau:jar_of_light"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 7,
+          "name": "botania:cloud_pendant"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 7,
+          "name": "ars_nouveau:amulet_of_mana_regen"
+        }
+      ]
+    }    
+  ]
+}

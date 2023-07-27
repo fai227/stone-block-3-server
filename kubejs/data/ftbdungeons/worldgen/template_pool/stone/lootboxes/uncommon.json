@@ -1,0 +1,15 @@
+{
+  "name": "ftbdungeons:stone/lootboxes/uncommon",
+  "fallback": "ftbdungeons:stone/lootboxes/uncommon",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbdungeons:stone/lootbox/uncommon/125",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

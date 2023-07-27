@@ -1,0 +1,1345 @@
+{
+  "enchantment.level.11": "XI",
+  "enchantment.level.12": "XII",
+  "enchantment.level.13": "XIII",
+  "enchantment.level.14": "XIV",
+  "enchantment.level.15": "XV",
+  "enchantment.level.25": "XXV",
+  "sdrp.sbd.in": "StoneBlock 차원으로",
+  "sdrp.sbd": "StoneBlock 차원",
+  "ftbquests.task.ftbquests.checkmark": "클릭하세요!",
+
+  "entity.chickens.bronze_chicken": "청동 치킨",
+  "entity.chickens.lead_chicken": "리드 치킨",
+  "entity.chickens.lumium_chicken": "루미움 치킨",
+  "entity.chickens.brass_chicken": "황동 치킨",
+  "entity.chickens.zinc_chicken": "아연 치킨",
+  "entity.chickens.pigiron_chicken": "피그아이언 치킨",
+  "entity.chickens.constantan_chicken": "콘스탄탄 치킨",
+  "entity.chickens.nickel_chicken": "니켈 치킨",
+  "entity.chickens.terrasteel_chicken": "테라스틸 치킨",
+  "entity.chickens.uranium_chicken": "우라늄 치킨",
+  "entity.chickens.netherite_chicken": "네더라이트 치킨",
+  "entity.chickens.copper_chicken": "구리 치킨",
+  "entity.chickens.electrum_chicken": "일렉트럼 치킨",
+  "entity.chickens.tin_chicken": "주석 치킨",
+  "entity.chickens.aluminum_chicken": "알루미늄 치킨",
+  "entity.chickens.osmium_chicken": "오스뮴 치킨",
+  "entity.chickens.manyulyn_chicken": "마뉼린 치킨",
+  "entity.chickens.signalum_chicken": "시그날룸 치킨",
+  "entity.chickens.cobalt_chicken": "코발트 치킨",
+  "entity.chickens.silver_chicken": "실버 치킨",
+  "entity.chickens.steel_chicken": "강철 치킨",
+  "entity.chickens.elementium_chicken": "엘레멘티움 치킨",
+  "entity.chickens.manasteel_chicken": "마나스틸 치킨",
+  "entity.chickens.enderium_chicken": "엔더리움 치킨",
+
+  "sb3.welcome.title": "환영합니다",
+
+  "sb3.welcome.welcome.title": "&5FTB StoneBlock 3&r에 오신 것을 환영합니다!",
+  "sb3.welcome.welcome.subtitle": "§a§l번역: BeanPolo§r",
+  "sb3.welcome.welcome.reward": "더 많은 퀘스트!",
+  "sb3.welcome.welcome.description_1": "이 모드팩은 &b표면이 없는 지하 세계&r로 구성됩니다.",
+  "sb3.welcome.welcome.description_2": "스폰 지점에서 &6더 멀리 이동하면&r 던전, 동굴, 그리고 결국에는 네더와 엔드의 고리를 만나게 될 것입니다.",
+  "sb3.welcome.welcome.description_3": "모든 플레이어는 고유한 차원이 있고 &60,0&r에서 생성되며 고유한 고리가 있습니다.",
+  "sb3.welcome.welcome.description_4": "&6/tpa&r 명령을 사용하여 다른 플레이어에게 순간이동할 수 있습니다.",
+
+  "sb3.welcome.servers.title": "시작",
+  "sb3.welcome.servers.subtitle": "게임 시작 방법",
+  "sb3.welcome.servers.desc1": "세계/서버 스폰은 로비 영역에 있습니다. 모두가 여기에서 스폰되지만 여기에서 &o머물러서&r는 안 됩니다.",
+  "sb3.welcome.servers.desc2": "&6차원을 생성&r하려면 중앙에 있는 포털로 이동하십시오. 거기에서 차원의 시작 동굴을 선택할 수 있습니다. 이렇게 하면 &eFTB Teams&r 파티도 생성됩니다.",
+  "sb3.welcome.servers.desc3": "다른 플레이어의 파티에 참여하면 해당 플레이어의 차원으로 이동합니다!",
+  "sb3.welcome.servers.desc4": "파티에 참가하면 &6/ftbstoneblock home&r 명령을 사용하여 파티의 차원으로 순간이동할 수 있습니다.",
+  "sb3.welcome.servers.desc5": "&6/ftbstoneblock lobby&r 명령을 사용하여 로비로 순간이동할 수 있습니다.",
+  "sb3.welcome.servers.desc6": "Loot Bee \\& Stick과 같은 개별 이벤트는 &6/events toggle &e<eventname> 명령을 사용하여 켜고 끌 수 있습니다.",
+
+  "sb3.getting_started.title": "시작하기!",
+
+  "sb3.getting_started.stonepebbles.title": "암석과 돌!",
+  "sb3.getting_started.stonepebbles.subtitle": "맨손으로 돌 깨기",
+  "sb3.getting_started.stonepebbles.task": "돌멩이 수집",
+  "sb3.getting_started.stonepebbles.reward": "돌멩이",
+  "sb3.getting_started.stonepebbles.description_1": "바위뿐인 동굴에 혼자 있을 때, 바위를 때리는 것보다 시간을 더 잘 활용하는 방법은 무엇입니까?",
+  "sb3.getting_started.stonepebbles.description_2": "주먹으로 돌을 캐면 &b돌 자갈&r이 나오고, 이것을 &6조약돌&r로 제작할 수 있습니다.",
+  "sb3.getting_started.stonepebbles.description_3": "어떤 이유로든 먹고 싶다면 먹을 수 있습니다.",
+
+  "sb3.getting_started.craftingtable.title": "제작 테이블",
+  "sb3.getting_started.craftingtable.subtitle": "제작 테이블 만들기",
+  "sb3.getting_started.craftingtable.description_1": "나무가 없으면 돌을 사용하십시오!",
+  "sb3.getting_started.craftingtable.description_2": "4개의 조약돌을 &b제작대&r로 제작할 수 있습니다.",
+
+  "sb3.getting_started.hammer.title": "해머 두두등장!",
+  "sb3.getting_started.hammer.subtitle": "돌 망치 만들기",
+  "sb3.getting_started.hammer.task": "망치",
+  "sb3.getting_started.hammer.description_1": "&b돌 망치&r는 채굴된 블록을 부수고 더 세분화된 블록을 떨어뜨립니다.",
+  "sb3.getting_started.hammer.description_2": "레시피에서 용도를 확인하면 &eREI&r에서 드랍을 볼 수 있습니다.",
+
+  "sb3.getting_started.chest.title": "상자",
+  "sb3.getting_started.chest.subtitle": "돌 상자 만들기",
+  "sb3.getting_started.chest.task": "돌 상자",
+  "sb3.getting_started.chest.description_1": "&eStone Chest&r 모드는 &b돌 상자&r를 추가합니다. 정말 매력적입니다.",
+  "sb3.getting_started.chest.description_2": "모든 돌 상자는 일반 상자와 동일하게 작동합니다.",
+
+  "sb3.getting_started.saplings.title": "묘목",
+  "sb3.getting_started.saplings.subtitle": "묘목 얻기",
+  "sb3.getting_started.saplings.task": "묘목",
+  "sb3.getting_started.saplings.description_1": "&b묘목&r은 Crook&r으로 &6흙을 채굴&r하여 얻을 수 있습니다.",
+
+  "sb3.getting_started.wood.title": "나무!",
+  "sb3.getting_started.wood.subtitle": "나무 키우기 및 벌목",
+  "sb3.getting_started.wood.task": "원목들",
+  "sb3.getting_started.wood.description_1": "나무가 자랄 수 있는 충분한 공간이 있는지 확인하십시오!",
+  "sb3.getting_started.wood.description_2": "근처에서 &6달리기, 점프하기, 웅크리기&r를 사용하여 묘목을 더 빨리 자라게 할 수 있습니다!",
+
+  "sb3.getting_started.ticon.title": "팅커스의 도구",
+  "sb3.getting_started.ticon.subtitle": "기본 Tinker 테이블 만들기",
+  "sb3.getting_started.ticon.desc": "&b대장장이 작업대&r은 &b부품 제작대&r에서 만든 부품을 사용하여 기본 모듈식 도구를 만들 수 있습니다.",
+
+  "sb3.getting_started.melter.title": "융해기",
+  "sb3.getting_started.melter.subtitle": "융해기 만들기",
+  "sb3.getting_started.melter.desc1": "&융해기&r는 금속을 &6액체로&r 녹일 수 있는 멀티블록입니다.",
+  "sb3.getting_started.melter.desc2": "&b그을린 가열기&r를 놓고 고체 연료를 공급한 다음 &b그을린 가열기&r를 맨 위에 놓습니다.",
+
+  "sb3.getting_started.casting.title": "주조",
+  "sb3.getting_started.casting.subtitle": "뭐라도 주조해보세요",
+  "sb3.getting_started.casting.desc1": "녹은 금속을 다시 아이템으로 변환하려면 &b그을린 주조용 꼭지&r 및 &b그을린 주조대/쇠물받이&r을 사용해야 합니다.",
+  "sb3.getting_started.casting.desc2": "금속이 취할 형태(주괴, 곡괭이 머리 등)를 선택하려면 &b금형&r을 사용해야 합니다. 모래 금형은 &c사용 시 파괴&r되지만 금 금형은 재사용할 수 있습니다.",
+  "sb3.getting_started.casting.desc3": "모래 금형을 만들려면 그을린 주조대에 빈 모래 금형을 놓고 금형을 만들 부품으로 클릭하십시오.",
+  "sb3.getting_started.casting.desc4": "수도꼭지는 클릭이나 레드스톤 신호로 활성화할 수 있습니다. 기본적으로 파이프 역할을 하여 유체를 뒤에 있는 블록에서 아래 블록으로 이동시킵니다. 원하는 경우 다른 파이프를 사용할 수 있습니다.",
+  "sb3.getting_started.casting.task1": "그을린 주조대/쇠물받이",
+  "sb3.getting_started.casting.task2": "금형",
+
+  "sb3.getting_started.smeltery.title": "제련소",
+  "sb3.getting_started.smeltery.subtitle": "제련소 만들기",
+  "sb3.getting_started.smeltery.desc1": "&제련소&r는 &6금속을&r 녹이고 &6녹은 금속을 합금&r으로 결합하는 멀티블록입니다.",
+  "sb3.getting_started.smeltery.desc2": "구조가 융해기보다 훨씬 더 자유롭습니다. 제작 방법에 대한 가이드는 &6Mighty Smelting&r을 참조하십시오.",
+  "sb3.getting_started.smeltery.desc3": "&6일부 녹은 금속이 혼합되어 합금을 생성합니다.&r. 이것은 연료가 있는 경우에만 발생하므로 연료가 없는 대규모 제련소는 녹은 금속을 저장하는 안전한 탱크 역할을 합니다.",
+  "sb3.getting_started.smeltery.desc4": "제련소를 구성하는 그을린 돌이 많을수록 더 많은 연료가 소모되고 더 많은 아이템과 액체를 저장할 수 있습니다.",
+  "sb3.getting_started.smeltery.desc8": "제련소에서 녹은 광석은 두 배가 됩니다.",
+  "sb3.getting_started.smeltery.task1": "그을린 연료탱크",
+  "sb3.getting_started.smeltery.task2": "그을린 돌",
+
+  "sb3.getting_started.cook.title": "얍얍",
+  "sb3.getting_started.cook.subtitle": "Crook 만들기",
+  "sb3.getting_started.cook.description_1": "&bCrook&r으로 특정 블록을 채굴하면 &6묘목 및 씨앗&r과 같은 아이템을 떨어뜨립니다.",
+  "sb3.getting_started.cook.description_2": "레시피에서 용도를 확인하여 &eREI&r에서 부산물을 볼 수 있습니다.",
+
+  "sb3.getting_started.seeds.title": "씨앗?",
+  "sb3.getting_started.seeds.subtitle": "씨앗 얻기",
+  "sb3.getting_started.seeds.task": "씨앗",
+  "sb3.getting_started.seeds.description_1": "흙에 &6Crook&r을(를) 사용하면 이 씨앗 아이템&r을(를) 떨어뜨릴 확률이 있습니다.",
+  "sb3.getting_started.seeds.description_2": "&eREI&r에서 각각의 확률을 볼 수 있습니다.",
+
+  "sb3.getting_started.gravel.title": "자갈",
+  "sb3.getting_started.gravel.subtitle": "자갈 얻기",
+  "sb3.getting_started.gravel.description_1": "&6해머 스톤&r으로 &b자갈&r을 얻을 수 있습니다.",
+
+  "sb3.getting_started.dirt.title": "흙",
+  "sb3.getting_started.dirt.subtitle": "흙 얻기",
+  "sb3.getting_started.dirt.description_1": "&6해머 스톤&r으로 &b흙&r을 얻을 수 있습니다.",
+
+  "sb3.getting_started.sand.title": "모래",
+  "sb3.getting_started.sand.subtitle": "모래 얻기",
+  "sb3.getting_started.sand.description_1": "&6해머 스톤&r으로 &b모래&r를 얻을 수 있습니다.",
+
+  "sb3.getting_started.dust.title": "가루",
+  "sb3.getting_started.dust.subtitle": "가루 얻기",
+  "sb3.getting_started.dust.description_1": "&6해머 스톤&r으로 &b가루&r를 얻을 수 있습니다.",
+
+  "sb3.getting_started.millstone.title": "시브? 그게 뭔데 씹덕아",
+  "sb3.getting_started.millstone.subtitle": "맷돌 설정 하기",
+  "sb3.getting_started.millstone.description_1": "철과 같은 기본 자원은 &맷돌&r을 사용하여 얻을 수 있습니다. 고급 자원은 나중에 사용할 수 없습니다.",
+  "sb3.getting_started.millstone.description_2": "&eCreate&r의 모든 것과 마찬가지로 맷돌은 회전력으로 구동됩니다.",
+  "sb3.getting_started.millstone.description_3": "마찬가지로 &6[w]&r을 누른 상태에서 Create 아이템 위로 마우스를 가져가면 전원 공급 방식을 포함하여 작동 방식을 설명하는 짧은 애니메이션을 볼 수 있습니다.",
+
+  "sb3.getting_started.millgravel.title": "자원",
+  "sb3.getting_started.millgravel.subtitle": "약간의 자갈을 갈아보아요",
+  "sb3.getting_started.millgravel.task": "분쇄 부산물",
+  "sb3.getting_started.millgravel.description_1": "&6분쇄된 자갈&r은 &b철&r, &b아연&r 및 &b석탄&r을 생산할 가능성이 있습니다.",
+
+  "sb3.getting_started.lava.title": "용암",
+  "sb3.getting_started.lava.subtitle": "용암 수집",
+  "sb3.getting_started.lava.description_1": "돌 블럭에 &bFire Plow&r을 일정시간 사용하여 &b용암&r을 만들 수 있습니다.",
+
+  "sb3.getting_started.water.title": "물",
+  "sb3.getting_started.water.subtitle": "물 수집",
+  "sb3.getting_started.water.description_1": "잎이나 묘목에 &b가마솥&r을 마우스 오른쪽 버튼으로 클릭하면 &b물&r을 얻을 수 있습니다.",
+
+  "sb3.getting_started.dripper.title": "Ultra Dripstinct",
+  "sb3.getting_started.dripper.subtitle": "Dripper 만들기",
+  "sb3.getting_started.dripper.desc1": "&bDripper&r는 다른 블록으로 바꾸기 위해 아래 블록에 액체를 떨어뜨립니다.",
+  "sb3.getting_started.dripper.desc2": "&6REI에서 변환할 수 있는 블록을 확인하십시오.",
+
+  "sb3.getting_started.cobble_gen1.subtitle": "Cobble Gen Tier1 만들기",
+  "sb3.getting_started.cobble_gen1.desc": "&bCobble Gen Tier1&r은 2초마다 1개의 조약돌을 만듭니다.",
+  "sb3.getting_started.cobble_gen1.desc2": "조약돌은 자동으로 위 인벤토리로 푸시됩니다.",
+
+  "sb3.getting_started.cobble_gen2.subtitle": "Cobble Gen Tier2 만들기",
+  "sb3.getting_started.cobble_gen2.desc": "&bCobble Gen Tier2&r은 1초마다 1개의 조약돌을 만듭니다.",
+
+  "sb3.getting_started.cobble_gen3.subtitle": "Cobble Gen Tier3 만들기",
+  "sb3.getting_started.cobble_gen3.desc": "&bCobble Gen Tier3&r은 0.5초마다 조약돌 1개를 만듭니다.",
+
+  "sb3.getting_started.cobble_gen4.subtitle": "Cobble Gen Tier4 만들기",
+  "sb3.getting_started.cobble_gen4.desc": "&bCobble Gen Tier4&r은 0.25초마다 조약돌 1개를 만듭니다.",
+
+  "sb3.getting_started.cobble_gen5.subtitle": "Cobble Gen Tier5 만들기",
+  "sb3.getting_started.cobble_gen5.desc": "&bCobble Gen Tier5&r은 0.05초마다 조약돌 1개를 만듭니다.",
+
+  "sb3.getting_started.soulsand.subtitle": "영혼모래 얻기",
+  "sb3.getting_started.soulsand.desc1": "&6믹서&r에서 모래, Mob Soul 및 약간의 물을 결합하여 &b영혼모래&r를 얻을 수 있습니다.",
+  "sb3.getting_started.soulsand.decs2": "첫 번째 이후에는 선풍기과 함께 &6Bulk Haunting&r으로 더 많은 것을 만들 수 있습니다.",
+
+  "sb3.getting_started.mobsoul.subtitle": "몹 영혼 얻기",
+  "sb3.getting_started.mobsoul.desc": "&bMob Souls&r은 몹이 죽을 때마다 20%의 확률로 드랍됩니다.",
+
+  "sb3.getting_started.encased_fan.title": "손 닦으세요",
+  "sb3.getting_started.encased_fan.subtitle": "선풍기 만들기",
+  "sb3.getting_started.encased_fan.desc1": "&bEncased 선풍기&r은 회전력을 사용하여 기류를 생성합니다.",
+  "sb3.getting_started.encased_fan.desc2": "기류가 특정 블록(예: 물 및 용암)을 통과하면 기류를 공예 역학으로 사용할 수 있습니다.",
+  "sb3.getting_started.encased_fan.desc3": "특히 물은 &6아이템을 세척&r하여 다른 아이템을 생성합니다. 용암은 &6아이템을 제련&r하여 마치 용광로처럼 작동합니다.",
+
+  "sb3.getting_started.washing.title": "세척",
+  "sb3.getting_started.washing.subtitle": "일부 자원 세척",
+  "sb3.getting_started.washing.task1": "모래",
+  "sb3.getting_started.washing.task2": "자갈",
+  "sb3.getting_started.washing.task3": "기타",
+  "sb3.getting_started.washing.description_1": "&b자갈, 모래, 가루, 영혼모래를 세척&r해서 많은 자원을 얻을 수 있습니다.",
+
+  "sb3.getting_started.nosolic.subtitle": "'잡상인 출입금지!' 표시",
+  "sb3.getting_started.nosolic.desc": "&b'잡상인 출입금지(No Solicitors)!' Sign&r은 떠돌이 상인이 근처에서 생성되는 것을 방지합니다.",
+
+  "sb3.getting_started.crushing_wheel.subtitle": "분쇄 휠 만들기",
+  "sb3.getting_started.crushing_wheel.desc1": "두 개의 &b분쇄 휠&r이 서로 회전할 때, 그것들 사이로 &6통과하는 것을 부숴버립니다&r.",
+  "sb3.getting_started.crushing_wheel.desc2": "광석 등을 처리하는데 사용할 수 있지만, 여러가지 재료를 모으는 방법이기도 합니다.",
+
+  "sb3.getting_started.crushing.title": "분쇄",
+  "sb3.getting_started.crushing.subtitle": "자갈을 부셔보아요",
+  "sb3.getting_started.crushing.desc": "&b자갈을 부수면&r 이 모든 부산물이 생성됩니다.",
+  "sb3.getting_started.crushing.task": "분쇄 부산물",
+
+  "sb3.getting_started.andesite.subtitle": "안산암 가져오기",
+  "sb3.getting_started.andesite.desc1": "충분히 위나 아래로 채굴하면 &b안산암&r층에 도달하게 됩니다. 그 너머에는 &6(심층암)Deepslate&r이 있고 그 다음 기반암이 있습니다.",
+  "sb3.getting_started.andesite.desc2": "자세한 정보를 보려면 여기를 클릭하십시오",
+
+  "sb3.exploration.title": "탐험",
+
+  "sb3.exploration.layers.title": "돌 층",
+  "sb3.exploration.layers.subtitle": "돌 층 탐색",
+  "sb3.exploration.layers.task_1": "돌이에요!",
+  "sb3.exploration.layers.task_2": "안산암이에요!",
+  "sb3.exploration.layers.task_3": "심층암(Deepslate)이에요!",
+  "sb3.exploration.layers.desc1": "지도의 오버월드는 y높이로 나누어진 5개의 층으로 분리됩니다.",
+  "sb3.exploration.layers.desc2": "중앙 층은 &b돌&r로써, &655 블록으로 높이&r의 y=0을 중심으로 위,아래로 만들어졌습니다.",
+  "sb3.exploration.layers.desc3": "그 위와 아래에는 &b안산암&r의 &620블록 높이&r의 층이 있습니다.",
+  "sb3.exploration.layers.desc4": "&o또한 그&r 위와 아래에는 &b심층암(Deepslate)&r의 &653 블록 높이&r의 층이 있습니다.",
+
+  "sb3.exploration.stone_dungeon.title": "돌 던전",
+  "sb3.exploration.stone_dungeon.subtitle": "돌 던전 방문",
+  "sb3.exploration.stone_dungeon.desc": "&bStone Dungeon&r은 스톤 서클의 바깥쪽 절반에서 찾을 수 있는 거대한 던전입니다.",
+
+  "sb3.exploration.spawner_dungeon.title": "스포너 던전",
+  "sb3.exploration.spawner_dungeon.subtitle": "스포너 던전 방문",
+  "sb3.exploration.spawner_dungeon.desc": "&bSpawner Dungeon&r은 한개의 방으로 구성된 훨씬 작은 던전입니다.",
+
+  "sb3.exploration.nether.title": "네더",
+  "sb3.exploration.nether.subtitle": "네더 링에 도달",
+  "sb3.exploration.nether.desc": "스폰 지점에서 약 &61,000 블록 떨어져 있습니다.",
+
+  "sb3.exploration.nether_dungeon.title": "네더 던전",
+  "sb3.exploration.nether_dungeon.subtitle": "네더 던전 방문",
+  "sb3.exploration.nether_dungeon.desc": "&bNether Dungeon&r은 Nether 링에서 찾을 수 있는 거대한 던전입니다.",
+
+  "sb3.exploration.end.title": "엔드",
+  "sb3.exploration.end.subtitle": "엔드 링에 도달",
+  "sb3.exploration.end.desc1": "스폰 지점에서 약 &61,600 블록을 시작합니다.",
+  "sb3.exploration.end.desc2": "계속해서 링&6엔드는 스폰 지점에서 약 2,200블록 떨어져&r 있습니다. 그 통로에는 고유한 던전이 점재해 있는 무한한 돌들이 있습니다.",
+
+  "sb3.exploration.end_city.title": "엔드 시티",
+  "sb3.exploration.end_city.subtitle": "엔드 시티 방문",
+  "sb3.exploration.end_city.desc": "&bEnd Citie&r는 End Ring에서 찾을 수 있습니다.",
+
+  "sb3.exploration.boss_dungeon.title": "보스 던전",
+  "sb3.exploration.boss_dungeon.subtitle": "보스 던전 방문",
+  "sb3.exploration.boss_dungeon.desc1": "&bBoss Dungeons&r은 &6End Ring&r 너머에서 찾을 수 있습니다.",
+  "sb3.exploration.boss_dungeon.desc2": "내부에서 모드팩의 보스를 소환하는 데 사용할 수 있는 &6Summoning Altar&r을 찾을 수 있습니다.",
+
+  "sb3.exploration.mother_silverfish.subtitle": "Mother Silverfish 소환하여 처치",
+  "sb3.exploration.mother_silverfish.desc1": "&bMother Silverfish&r은(는) End Ring 외부에 있는 보스 던전에서 소환됩니다. Summoning Altar에서 소환하여 처치하세요!",
+  "sb3.exploration.mother_silverfish.desc2": "Mother Silverfish에는 몇 가지 특수 공격이 있으며 &6여러 유형의 하수인&r을 소환할 수 있으므로 주의하십시오.",
+  "sb3.exploration.mother_silverfish.desc3": "가능한 소환수는 &6Leech&r, &6Poison&r, &6Thief&r Silverfish입니다. 마지막 소환수는 특히 위험하므로 조심하세요!",
+
+  "sb3.exploration.train.title": "세계 여행!",
+  "sb3.exploration.train.subtitle": "츄츄",
+  "sb3.exploration.train.desc1": "기차를 타고 5개 바이옴를 한 번에 통과하세요!",
+  "sb3.exploration.train.desc2": "바이옴:\n• 평원\n• 무성한 동굴\n• 황천 황무지\n• 끝\n• 숲",
+
+  "sb3.resources.title": "자원",
+
+  "sb3.resources.mob_farming.title": "Mob Grinding Util",
+
+  "sb3.resources.mob_farming.solidifier.title": "Jelly Baby를 원하십니까?",
+  "sb3.resources.mob_farming.solidifier.subtitle": "Jelly Baby 얻기",
+  "sb3.resources.mob_farming.solidifier.description_1": "경험치를 꼬박꼬박 먹을 수 있는 아기로 만들어 보세요.",
+  "sb3.resources.mob_farming.solidifier.description_2": "&o참고: 현실에서 재현 불가!",
+
+  "sb3.resources.mob_farming.spawner.title": "몹 생성",
+  "sb3.resources.mob_farming.spawner.subtitle": "엔티티 생성기 만들기",
+  "sb3.resources.mob_farming.spawner.description_1": "&bEntity Spawner&r이 엔티티를 생성합니다. 간단합니다.",
+  "sb3.resources.mob_farming.spawner.description_2": "상단 슬롯에 스폰 알을 삽입하십시오. 스폰 알을 얻으려면 닭에게 스폰하려는 몹의 &bGM 닭 먹이&r를 먹이십시오.",
+  "sb3.resources.mob_farming.spawner.description_3": "Spawner는 &6XP Jelly Babies&r에 의해 연료가 공급되며 아래쪽 슬롯에 삽입됩니다.",
+  "sb3.resources.mob_farming.spawner.description_4": "오른쪽에 있는 버튼을 사용하면 몹이 생성되는 곳으로 이동할 수 있습니다. 하단의 슬롯에는 &6업그레이드&r를 포함할 수 있습니다.",
+
+  "sb3.resources.mob_farming.masher.title": "몬스터 으깨기",
+  "sb3.resources.mob_farming.masher.subtitle": "Monster Masher 얻기",
+  "sb3.resources.mob_farming.masher.desc1": "&bMob Masher&r을 사용하여 모든 몹을 분쇄할 시간입니다.",
+  "sb3.resources.mob_farming.masher.desc2": "업그레이드를 통해 더 강한 몹을 더 빨리 죽이고 더 많은 전리품을 떨어뜨릴 수 있습니다!",
+
+  "sb3.resources.mob_farming.hopper.subtitle": "흡수호퍼 만들기",
+  "sb3.resources.mob_farming.hopper.description_1": "당신의 몹 농장은 결국 수집보다 드랍이 많아지는 분기점에 도달하게 될 것입니다.",
+  "sb3.resources.mob_farming.hopper.description_2": "&bAbsorption Hopper&r은(는) 지역에서 몹과 xp&r를 &6흡수 할 수 있습니다.",
+
+  "sb3.resources.mob_farming.fan.title": "날아가욧",
+  "sb3.resources.mob_farming.fan.subtitle": "몹 선풍기 만들기",
+  "sb3.resources.mob_farming.fan.description_1": "&bMob Fans&r은 레드스톤 신호에 따라 &6몹을 &6푸쉬&r합니다.",
+  "sb3.resources.mob_farming.fan.description_2": "이 영역은 GUI에서 볼 수 있으며 업그레이드로 증가합니다.",
+
+  "sb3.resources.mob_farming.chicken_feed_1.title": "완전 윤리적임",
+  "sb3.resources.mob_farming.chicken_feed_1.subtitle": "영양가 있는 닭 사료 만들기",
+  "sb3.resources.mob_farming.chicken_feed_1.description": "닭의 사료를 마우스 오른쪽 클릭하고, 영혼을 안정시킵니다..",
+
+  "sb3.resources.mob_farming.golden_egg.title": "황금거위 별도 판매",
+  "sb3.resources.mob_farming.golden_egg.subtitle": "황금알 얻기",
+  "sb3.resources.mob_farming.golden_egg.description": "흙이나 잔디에서 &bGolden Egg&r를 사용하여 &6Delightful Dirt&r의 플롯을 얻으십시오!",
+
+  "sb3.resources.mob_farming.chicken_feed_2.title": "PETA 승인",
+  "sb3.resources.mob_farming.chicken_feed_2.subtitle": "GM Chicken Feed Cursed 만들기",
+  "sb3.resources.mob_farming.chicken_feed_2.description": "닭에게 먹이를 주며 재밌는 시간을 보내세요.",
+
+  "sb3.resources.mob_farming.rotton_egg.title": "맛없어",
+  "sb3.resources.mob_farming.rotton_egg.subtitle": "Rotten Egg 얻기",
+  "sb3.resources.mob_farming.rotton_egg.description": "흙이나 풀 위에 &bRotten Egg&r을 사용하여 &6Dreadful Dirt&r의 플롯을 얻으십시오.",
+
+  "sb3.resources.mob_farming.dirt_1.title": "평화주의자",
+  "sb3.resources.mob_farming.dirt_1.subtitle": "Delightful Dirt 관찰",
+  "sb3.resources.mob_farming.dirt_1.description": "&bDelightful Dirt&r은 닭에서 소, 다른 친근한 모드의 몹에 이르기까지의 비선공몹을 생성합니다.",
+
+  "sb3.resources.mob_farming.dirt_2.title": "격리 위반!",
+  "sb3.resources.mob_farming.dirt_2.subtitle": "Dreadful Dirt 관찰",
+  "sb3.resources.mob_farming.dirt_2.description": "&bDreadful Dirt&r은 밤에 충돌하는 모든 것을 생성합니다.",
+
+  "sb3.resources.mob_farming.upgrades.title": "업그레이드",
+  "sb3.resources.mob_farming.upgrades.subtitle": "업그레이드 만들기",
+  "sb3.resources.mob_farming.upgrades.desc": "특정 &b업그레이드&r는 선풍기, 생성기, 몹 매셔, 호퍼 및 XP Solidifier에 삽입할 수 있습니다.",
+
+  "sb3.resources.mob_farming.xp.title": "강도 체험",
+  "sb3.resources.mob_farming.xp.subtitle": "100레벨 기부",
+  "sb3.resources.mob_farming.xp.description_1": "경험치가 부족합니다. 100레벨을 주시면 전리품을 주겠습니다.",
+  "sb3.resources.mob_farming.xp.description_2": "몹 농장을 사용하면 확실히 일부 절약할 수 있을 것입니다!",
+
+  "sb3.resources.passive.title": "수동 자원",
+
+  "sb3.passive.drill.subtitle": "레이저 드릴 설정하기",
+  "sb3.passive.drill.desc1": "&bOre Laser Base&r 및 &bFluid Laser Base&r는 FE를 사용하여 광석과 유체를 생성합니다.",
+  "sb3.passive.drill.desc2": "그 자체로는 FE입력이 없고, &bLaser Drills&r로 전원을 공급해야 합니다.",
+  "sb3.passive.drill.task": "레이저 베이스",
+
+  "sb3.chickens.catcher.title": "치킨 체이서",
+  "sb3.chickens.catcher.subtitle": "Chicken Catcher 만들기",
+  "sb3.chickens.catcher.desc": "&bChicken Catcher&r을(를) 치킨 몹에 사용하여 아이템으로 바꿀 수 있습니다.",
+
+  "sb3.chickens.breeder.subtitle": "브리더 만들기",
+  "sb3.chickens.breeder.desc": "&bBreeder&r을(를) 사용하면 씨앗을 사용하여 닭을 아이템으로 자동 번식할 수 있습니다.",
+
+  "sb3.chickens.roost.subtitle": "쉼터 만들기",
+  "sb3.chickens.roost.desc": "&bRoost&r은 치킨 아이템을 마치 몹처럼 시뮬레이션하여 천천히 전리품을 생성합니다.",
+
+  "sb3.chickens.craft.title": "제작 가능한 닭",
+  "sb3.chickens.craft.subtitle": "닭 만들기",
+  "sb3.chickens.craft.desc": "이 &bChickens&r은(는) 직접 제작할 수 있습니다.",
+
+  "sb3.chickens.bred.title": "닭 사육",
+  "sb3.chickens.bred.subtitle": "닭 교배",
+  "sb3.chickens.bred.desc": "이 &bChickens&r은(는) 다른 닭과 교배해야 합니다.",
+
+  "sb3.resources.budding_crystals.title": "새싹 수정",
+  "sb3.resources.budding_crystals.subtitle": "새싹 수정 만들기",
+  "sb3.resources.budding_crystals.desc": "&b새싹 수정(Budding Crystals)&r은 새싹 자수정(Budding Amethyst)과 유사하지만 다른 자원 입니다.",
+
+  "sb3.tech.title": "기술",
+
+  "sb3.tech.industrial_forgoing.title": "Industrial Forgoing",
+
+  "sb3.if.fe.subtitle": "유체 추출기 만들기",
+  "sb3.if.fe.desc": "&bFluid Extractor&r을 원목앞에 놓으면 &6Latex&r이 생성됩니다.",
+
+  "sb3.if.lpu.subtitle": "Latex Processing Unit 만들기",
+  "sb3.if.lpu.desc": "&bLatex Processing Unit&r은 FE와 물을 사용하여 라텍스를 &6Tiny Dry Rubber&r로 바꿉니다.",
+
+  "sb3.if.mc.subtitle": "몹 크러셔 만들기",
+  "sb3.if.mc.desc1": "&bMob Crusher&r는 몹을 죽이고 전리품을 수집합니다. XP는 에센스로 수집됩니다.",
+  "sb3.if.mc.desc2": "에센스를 생성하지 않는 대신 약탈을 사용하도록 설정할 수 있습니다.",
+
+  "sb3.if.msf.subtitle": "몹 도살장 만들기",
+  "sb3.if.msf.desc1": "&bMob Slaughter Factory&r은 몹을 죽이고 드랍과 경험치를 파괴하여 &6Liquid Meat&r 및 &6Pink Slime&r을 생성합니다.",
+  "sb3.if.msf.desc2": "패시브 몹은 적대적인 몹보다 핑크 슬라임을 더 많이 생성합니다.",
+
+  "sb3.if.af.title": "동물 농장",
+  "sb3.if.af.subtitle": "동물 농장 설정하기",
+  "sb3.if.af.desc1": "&bAnimal Feeder&r은(는) 인벤토리에 있는 피드를 사용하여 작업 영역에서 성체를 번식시킵니다.",
+  "sb3.if.af.desc2": "&bAnimal Baby Separator&r은(는) 아기 동물을 앞에 있는 아기 동물을 뒤로 텔레포트합니다. 대신 성인을 움직이도록 설정할 수 있습니다.",
+  "sb3.if.af.desc3": "번식용 축사 하나를 갖고 아기를 우리가 자라도록 옮긴 다음 다른 ABS를 사용하여 새로 자란 성인을 도살 기계가 있는 우리로 옮길 수 있습니다. .",
+
+  "sb3.if.cf.title": "작물 농장",
+  "sb3.if.cf.subtitle": "작물 농장 설정 만들기",
+  "sb3.if.cf.desc1": "&bPlant Sower&r이(가) 작업 영역에 씨앗을 심습니다. 9개의 면에 대해 별도의 씨앗을 설정할 수 있습니다.",
+  "sb3.if.cf.desc2": "&bPlant Gatherer&r은 작업 영역에서 작물과 나무를 수집합니다. &6Ether&r은 자동으로 씨앗/묘목을 다시 심을 수 있습니다.",
+
+  "sb3.if.myc.title": "균사체 생성기",
+  "sb3.if.myc.subtitle": "모든 균사체 생성기 만들기",
+  "sb3.if.myc.desc1": "&bMycelial Reactor&r은(는) 다른 모든 Mycelial Generators가 동시에 작동 중일 때 엄청난 양의 FE &6를 생성합니다&r.",
+  "sb3.if.myc.desc2": "각 &bMycelial Generators&r은 TNT 또는 Dragon Breath와 같은 고유한 연료를 사용하여 FE를 생성합니다.",
+
+  "sb3.if.wb.subtitle": "위더 빌더 만들기",
+  "sb3.if.wb.desc1": "&bWither Builder&r은 블록을 남겨두고 자체 위에 Wither를 만들고 생성합니다.",
+  "sb3.if.wb.desc2": "위더를 방지하고 위더를 죽일 수 있으므로 &eRFTools&r Shield와 함께 사용하는 것이 가장 좋습니다.",
+
+  "sb3.if.ra.title": "범위 추가 기능",
+  "sb3.if.ra.subtitle": "범위 애드온 만들기",
+  "sb3.if.ra.desc": "대부분의 컴퓨터에는 1x1x1 작업 영역만 있습니다. &bRange Addons&r은 이를 증가시킵니다.",
+
+  "sb3.if.oa.title": "속도 추가 기능",
+  "sb3.if.oa.subtitle": "다른 애드온 중 하나 만들기",
+  "sb3.if.oa.desc": "이 다른 &bAddons&r은 여러 다른 방법으로 컴퓨터의 속도를 높입니다.",
+
+  "sb3.if.it.subtitle": "아이템 트랜스포터 만들기",
+  "sb3.if.it.desc": "&bItem Transporters&r을 사용하여 인벤토리 간에 한 블록 떨어진 아이템을 빠르게 이동할 수 있습니다.",
+
+  "sb3.if.ft.subtitle": "유체 수송기 만들기",
+  "sb3.if.ft.desc": "&bFluid Transporters&r은 서로 한 블록 떨어진 탱크 사이에서 유체를 빠르게 이동하는 데 사용할 수 있습니다.",
+
+  "sb3.if.wt.subtitle": "세계 운송업자 만들기",
+  "sb3.if.wt.desc": "&bWorld Transporters&r을 사용하여 인벤토리와 세계 간에 아이템 엔티티 형식으로 아이템을 빠르게 이동할 수 있습니다.",
+
+  "sb3.tech.rftools.title": "RF 도구",
+
+  "sb3.rft.builder.subtitle": "빌더 만들기",
+  "sb3.rft.builder.desc": "&bBuilder&r은(는) 내부의 &bSpace 카드&r에 의해 설정된 영역에 위 인벤토리의 블록을 배치합니다.",
+
+  "sb3.rft.cards.title": "모양 카드",
+  "sb3.rft.cards.subtitle": "고급 모양 카드 만들기",
+  "sb3.rft.cards.desc": "이 고급 &bShape 카드&r는 유체를 배치/수집하고 블록을 파는 데 사용할 수 있습니다.",
+
+  "sb3.rft.shield.title": "포스필드 실드",
+  "sb3.rft.shield.subtitle": "쉴드 설정 만들기",
+  "sb3.rft.shield.desc1": "&bShield Projectors&r은 렌치로 클릭할 때 연결된 &bShield Templates&r 위치에 Shields를 만듭니다. 아래 그림은 렌치를 사용하기 전과 후를 보여줍니다.",
+  "sb3.rft.shield.desc2": "방패에는 플레이어와 몹이 통과하게 하는 동안 위더에게 피해를 주는 것과 같이 엔티티와 상호 작용하는 방법에 대한 규칙이 주어질 수 있습니다.",
+  "sb3.rft.shield.desc3": "방패 블록도 위더 방지 기능이 있습니다! 해골이 날아가지 못하게 하는 것을 잊지 마십시오!",
+  "sb3.rft.shield.task1": "쉴드 프로젝터",
+  "sb3.rft.shield.task2": "방패 템플릿",
+
+  "sb3.rft.spawner.subtitle": "스포너 만들기",
+  "sb3.rft.spawner.desc1": "&bSpawner&r이(가) 내부의 &bSyringe&r에 의해 설정된 몹을 생성하며, 해당 몹을 공격하여 채워집니다.",
+  "sb3.rft.spawner.desc2": "모든 몹에는 흙/자갈/모래, 식물 및 몹 고유 아이템의 3가지가 필요합니다. 이들은 연결된 &bMatter Beamers&r에서 제공됩니다.",
+
+  "sb3.tech.powah.title": "Powah!",
+
+  "sb3.powah.thermo.title": "Thermo Generators",
+  "sb3.powah.thermo.subtitle": "Thermo Generators 만들기",
+  "sb3.powah.thermo.desc": "&bThermo Generators&r는 용광로 연료에서 FE를 생성합니다.",
+
+  "sb3.powah.magmator.title": "Magmators",
+  "sb3.powah.magmator.subtitle": "Magmator 만들기",
+  "sb3.powah.magmator.desc": "&bMagmators&r은 용암으로 FE를 생성합니다.",
+
+  "sb3.powah.reactor.title": "Reactors",
+  "sb3.powah.reactor.subtitle": "리액터 만들기",
+  "sb3.powah.reactor.desc": "&bReactors&r는 Uraninite를 사용하여 FE를 생성합니다. 3x4x3으로 배치해야 합니다.",
+
+  "sb3.powah.cell.title": "에너지 셀",
+  "sb3.powah.cell.subtitle": "에너지 셀 만들기",
+  "sb3.powah.cell.desc": "&bEnergy Cells&r는 FE를 저장합니다.",
+
+  "sb3.powah.battery.title": "배터리",
+  "sb3.powah.battery.subtitle": "배터리 만들기",
+  "sb3.powah.battery.desc": "&bBatteries&r는 FE를 저장합니다, 인벤토리에 있는 아이템을 충전할 수 있습니다.",
+
+  "sb3.powah.cable.title": "에너지 케이블",
+  "sb3.powah.cable.subtitle": "에너지 케이블 만들기",
+  "sb3.powah.cable.desc": "&bEnergy Cable&r는 FE를 전송합니다.",
+
+  "sb3.powah.ender.title": "엔더 셀",
+  "sb3.powah.ender.subtitle": "엔더 셀 만들기",
+  "sb3.powah.ender.desc1": "&bEnder Cells&r은(는) Ender Cells의 양에 관계없이 공유되는 무선 네트워크에 FE를 저장합니다.",
+  "sb3.powah.ender.desc2": "에너지 셀로 양을 늘릴 수 있습니다.",
+
+  "sb3.powah.energizing.task2": "Energizing Rods",
+  "sb3.powah.energizing.subtitle": "Energizing 설정 만들기",
+  "sb3.powah.energizing.desc": "&bEnergizing Orb&r은(는) 근처의 &bEnergizing Rods&r에서 무선으로 전원을 받아 아이템을 제작합니다.",
+
+  "sb3.powah.player.title": "플레이어 송신기",
+  "sb3.powah.player.subtitle": "플레이어 송신기 만들기",
+  "sb3.powah.player.desc": "&bPlayer Transmitter&r은(는) 플레이어의 인벤토리에 있는 아이템을 무선으로 충전합니다.",
+
+  "sb3.powah.gate.title": "엔더 게이트",
+  "sb3.powah.gate.subtitle": "엔더 게이트 만들기",
+  "sb3.powah.gate.desc": "&bEnder Gates&r는 Ender Cell 네트워크에 대한 액세스를 제공합니다.",
+
+  "sb3.tech.thermal.title": "Thermal Series",
+
+  "sb3.thermal.mc.subtitle": "마그마 도가니 만들기",
+  "sb3.thermal.mc.desc": "&bMagma Crucible&r은 아이템을 액체로 녹입니다.",
+
+  "sb3.thermal.bc.subtitle": "Blast Chiller 만들기",
+  "sb3.thermal.bc.desc": "&bBlast Chiller&r은 유체를 아이템으로 변환합니다.",
+
+  "sb3.thermal.rf.subtitle": "레드스톤 용광로 만들기",
+  "sb3.thermal.rf.desc": "&bRedstone Furnace&r은(는) 아이템을 제련합니다.",
+
+  "sb3.thermal.pulv.subtitle": "분쇄기 만들기",
+  "sb3.thermal.pulv.desc": "&bPulverizer&r이(가) 아이템을 분쇄합니다.",
+
+  "sb3.thermal.aug.title": "증강",
+  "sb3.thermal.aug.subtitle": "아무 증강 만들기",
+  "sb3.thermal.aug.desc": "&bAugments&r는 기본적으로 도구와 기계가 작동하는 방식을 변경하는 업그레이드입니다.",
+
+  "sb3.thermal.dynamo.title": "다이나모들",
+  "sb3.thermal.dynamo.subtitle": "모든 Dynamo 만들기",
+  "sb3.thermal.dynamo.desc": "&bDynamos&r는 FE를 생성합니다.",
+
+  "sb3.thermal.ic.title": "내부 구성 요소",
+  "sb3.thermal.ic.subtitle": "내부 구성 요소 만들기",
+  "sb3.thermal.ic.desc": "&b내부 구성 요소&r는 기계의 티어를 증가시켜 기본 속성을 향상시킵니다.",
+
+  "sb3.thermal.msp.subtitle": "멀티서보 프레스 만들기",
+  "sb3.thermal.msp.desc": "&bMultiservo Press&r은 함께 아이템을 만듭니다.",
+
+  "sb3.thermal.rfc.subtitle": "레드스톤 플럭스 셀 만들기",
+  "sb3.thermal.rfc.desc": "&bRedstone Flux Cels&r는 FE를 저장합니다. 스토리지는 증강 및 마법으로 개선할 수 있습니다.",
+
+  "sb3.thermal.is.subtitle": "유도 제련소 만들기",
+  "sb3.thermal.is.desc": "&bInduction Smelter&r은 아이템을 새 아이템으로 결합합니다.",
+
+  "sb3.thermal.pi.subtitle": "식물성 단열재 만들기",
+  "sb3.thermal.pi.desc": "&bPhytogenic Insolator&r은 작물, 꽃, 나무를 자라게합니다.",
+
+  "sb3.thermal.ie.subtitle": "화성 압출기 만들기",
+  "sb3.thermal.ie.desc": "&bIgneous Extruder&r은 물과 용암을 돌 또는 심층암(Deepslate)와 같은 다양한 블록으로 결합할 수 있습니다.",
+
+  "sb3.tech.immersive_eng.title": "Immersive Engineering",
+
+  "sb3.ie.eh.subtitle": "기술자의 망치 만들기",
+  "sb3.ie.eh.desc": "모드에서 다양한 멀티 블록을 구성하려면 &bEngineer's Hammer&r가 필요합니다.",
+
+  "sb3.ie.ak.title": "합금 가마",
+  "sb3.ie.ak.subtitle": "합금 가마 만들기",
+  "sb3.ie.ak.desc": "&bAlloy Kiln&r은 금속을 합금으로 결합합니다.",
+
+  "sb3.ie.co.title": "코크 오븐",
+  "sb3.ie.co.subtitle": "코크 오븐 만들기",
+  "sb3.ie.co.desc": "&bCoke Oven&r은 석탄을 코크스 및 크레오소트 오일로 바꿉니다.",
+
+  "sb3.ie.bo.title": "조잡한 용광로",
+  "sb3.ie.bo.subtitle": "조잡한 용광로 만들기",
+  "sb3.ie.bo.desc": "&bCrude Blast Furnace&r는 강철을 만듭니다.",
+
+  "sb3.ie.ibf.title": "향상된 용광로",
+  "sb3.ie.ibf.subtitle": "향상된 폭발로 만들기",
+  "sb3.ie.ibf.desc": "&bBlast Furnace Preheaters&r을(를) 사용하여 &bImproved Blast Furnace&r 속도를 높일 수 있습니다.",
+
+  "sb3.ie.mp.title": "메탈 프레스",
+  "sb3.ie.mp.subtitle": "메탈 프레스 만들기",
+  "sb3.ie.mp.desc": "&bMetal Press&r는 금속을 다양한 아이템으로 만듭니다.",
+
+  "sb3.ie.c.title": "크러셔",
+  "sb3.ie.c.subtitle": "크러셔 만들기",
+  "sb3.ie.c.desc": "&bCrusher&r은 상단에 들어오는 아이템과 몹을 부숴줍니다.",
+
+  "sb3.ie.gc.subtitle": "Garden Cloche 만들기",
+  "sb3.ie.gc.desc": "&bGarden Cloche&r는 자체적으로 작물을 빠르게 자랍니다.",
+
+  "sb3.tech.mekanism.title": "메카니즘",
+
+  "sb3.mek.vapor.title": "수증기",
+  "sb3.mek.vapor.subtitle": "Rotary Condensator 만들기",
+  "sb3.mek.vapor.desc1": "&Polonium&r에는 핵 폐기물(Nuclear Waste)이 필요합니다. 즉, &6power a Fission Reactor&r에 전원을 공급해야 합니다.",
+  "sb3.mek.vapor.desc2": "핵분열 원자로는 길고 복잡한 제조법이 있는 &6Fissile Fuel&r에서 실행됩니다.",
+  "sb3.mek.vapor.desc3": "첫 번째 단계는 &bRotary Condensator&r에서 &6Water Vapor&r을 만드는 것입니다.",
+
+  "sb3.mek.oxygen.title": "산소",
+  "sb3.mek.oxygen.subtitle": "Electrolytic Separator 만들기",
+  "sb3.mek.oxygen.desc1": "&bElectrolytic Separator&r은 하나의 화학 물질을 다른 두 화학 물질로 바꿉니다. 여기서 물은 수소 및 &6산소&r로 바뀝니다.",
+  "sb3.mek.oxygen.desc2": "수소는 핵분열 연료에 필요하지 않으므로 폐기할 수 있습니다.",
+
+  "sb3.mek.sdo.title": "이산화황",
+  "sb3.mek.sdo.subtitle": "화학 산화제 만들기",
+  "sb3.mek.sdo.desc": "&bChemical Oxidizer&r은 고체를 화학 물질로 바꿉니다. 여기서는 황을 &6Sulfur Dioxide&r로 변환합니다.",
+
+  "sb3.mek.lst.title": "삼산화황",
+  "sb3.mek.lst.subtitle": "화학 주입기 만들기",
+  "sb3.mek.lst.desc": "&bChemical Infuser&r은 두 가지 화학 물질을 결합하여 또 다른 화학 물질을 만듭니다. 여기서는 이산화황과 산소를 ​​사용하여 &6Sulfur Trioxide&r을 만듭니다.",
+
+  "sb3.mek.sa.title": "황산",
+  "sb3.mek.sa.subtitle": "황산 만들기",
+  "sb3.mek.sa.desc": "&bSulfur Dioxide&r은 삼산화황과 수증기를 결합하여 만들 수 있습니다.",
+
+  "sb3.mek.hfa.title": "불화수소산",
+  "sb3.mek.hfa.subtitle": "Chemical Dissolution Chamber 만들기",
+  "sb3.mek.hfa.desc": "&bChemical Dissolution Chamber&r은 황산을 사용하여 항목을 새로운 화학 물질로 용해시킵니다. 여기에서 형석은 &6불화수소산(Hydrofluoric Acid)&r로 변환됩니다.",
+
+  "sb3.mek.yc.subtitle": "Yellow Cake Uranium 얻기",
+  "sb3.mek.yc.desc": "&bYellow Cake Uranium&r은 핵분열성 연료의 핵심 성분입니다.",
+
+  "sb3.mek.uo.title": "산화우라늄",
+  "sb3.mek.uo.subtitle": "산화우라늄 얻기",
+  "sb3.mek.uo.desc": "&bUranium Oxide&r은(는) &6Chemical Oxidizer&r에서 생성할 수 있습니다.",
+
+  "sb3.mek.uhf.title": "육불화우라늄",
+  "sb3.mek.uhf.subtitle": "육불화우라늄 얻기",
+  "sb3.mek.uhf.desc": "&bUranium Hexafluoride&r은 핵분열성 연료의 주성분입니다.",
+
+  "sb3.mek.ff.title": "분열성 연료",
+  "sb3.mek.ff.subtitle": "Isotopic Centrifuge 만들기",
+  "sb3.mek.ff.desc": "&bIsotopic Centrifuge&r은 한 화학물질을 다른 화학물질로 바꿉니다. 여기에서는 Uranium Hexafluoride가 &6핵분열 연료(Fissile Fuel)&r로 바뀝니다.",
+
+  "sb3.mek.fission.title": "핵분열 원자로",
+  "sb3.mek.fission.subtitle": "핵분열 원자로 만들기",
+  "sb3.mek.fission.desc1": "&bFission Reactor&r은 엄청난 양의 FE를 만드는데 사용할 수 있는 엄청난 양의 열을 생성하는 대형 멀티블록구조입니다.",
+  "sb3.mek.fission.desc2": "그러나 더 중요한 것은 &6&o핵 폐기물&r을 만든다는 것입니다.",
+  "sb3.mek.fission.desc3": "솔직히 핵분열 원자로는 여기에서 설명하기에는 너무 복잡합니다. 운 좋게도 여기에 아주 좋은 위키 페이지가 있습니다. ",
+
+  "sb3.mek.nw.title": "핵 폐기물",
+  "sb3.mek.nw.subtitle": "Pressurized Reaction Chamber 만들기",
+  "sb3.mek.nw.desc": "&bPressurized Reaction Chamber&r는 아이템과 화학 물질을 다른 아이템과 다른 화학 물질로 결합합니다.",
+
+  "sb3.mek.polonium.subtitle": "폴로늄 가져오기",
+  "sb3.mek.polonium.desc1": "&b폴로늄&r은(는) 여러 레시피에 사용되는 방사성 물질입니다.",
+  "sb3.mek.polonium.desc2": "그 중 어느 것도 중요하지 않습니다. Singularity가 필요하며 이것이 정말 중요합니다.",
+
+  "sb3.magic.title": "마법",
+
+  "sb3.magic.ars_nouveau.title": "Ars Nouveau",
+
+  "sb3.ars.nsb.subtitle": "초보자 스펠책 만들기",
+  "sb3.ars.nsb.desc1": "&bNovice Spell Book&r을 사용하면 학습한 Tier 1 글리프를 사용하여 주문을 만들 수 있습니다.",
+  "sb3.ars.nsb.desc2": "&6Scribe의 테이블&r에서 새 글리프를 만들고 배우십시오.",
+
+  "sb3.ars.st.subtitle": "학자의 테이블 만들기",
+  "sb3.ars.st.desc": "&bSCribe's Table&r에서 주문책을 사용하여 새로운 &bGlyphs&r을(를) 만든 다음 요청한 아이템을 맨 위에 던질 수 있습니다.",
+  "sb3.ars.st.task": "글리프",
+
+  "sb3.ars.msb.subtitle": "마법사의 마법서 만들기",
+  "sb3.ars.msb.desc": "&bMage's Spell Book&r을 사용하면 배운 Tier 2 Glpyhs를 사용하여 주문을 시전할 수 있습니다.",
+
+  "sb3.ars.asb.subtitle": "대마법사 주문서 만들기",
+  "sb3.ars.asb.desc": "&bArchmage Spell Book&r을 사용하면 배운 Tier 3 글리프를 사용하여 주문을 시전할 수 있습니다.",
+
+  "sb3.ars.ic.subtitle": "보유 챔버 만들기",
+  "sb3.ars.ic.desc1": "&bImbuement Chamber&r은 소스를 사용하여 아이템을 제작합니다.",
+  "sb3.ars.ic.desc2": "근처의 소스 항아리에서 더 빠르게 작동하지만 &6자체적으로 소스&r를 천천히 생성합니다.",
+
+  "sb3.ars.sl.title": "소스 링크",
+  "sb3.ars.sl.subtitle": "소스링크 만들기",
+  "sb3.ars.sl.desc": "&bSourcelinks&r은 Sourcelink에 따라 다양한 방식으로 소스를 생성합니다. 소스는 근처의 &bSource Jars&r로 전송됩니다.",
+
+  "sb3.ars.sr.title": "Source Relays",
+  "sb3.ars.sr.subtitle": "Source Relays 만들기",
+  "sb3.ars.sr.desc": "&bSource Relays&r 소스 항아리와 다른 릴레이간에 소스를 전송합니다.",
+
+  "sb3.ars.ea.subtitle": "Enchanting Apparatus 만들기",
+  "sb3.ars.ea.desc": "&bEnchanting Apparatus&r은 Source를 사용하여 주변 &bPedestals&r의 아이템을 자체 인벤토리의 아이템과 결합하여 새로운 것을 만듭니다.",
+
+  "sb3.ars.charms.title": "Charms",
+  "sb3.ars.charms.subtitle": "Charm 만들기",
+  "sb3.ars.charms.desc": "&bCharms&r은 몹에 따라 일종의 자동화를 수행하는 몹을 생성합니다.",
+
+  "sb3.ars.rb.subtitle": "Ritual Brazier 만들기",
+  "sb3.ars.rb.desc": "&bRitual Brazier&r는 제공된 &bTablet&r에 따라 Source를 사용하여 의식을 수행합니다.",
+  "sb3.ars.rb.task": "Ritual Brazier",
+
+  "sb3.ars.fam.title": "Familiars",
+  "sb3.ars.fam.subtitle": "Familiars 얻기",
+  "sb3.ars.fam.desc1": "&bFamilars&r은 Familiar에 따라 패시브 또는 액티브 버프를 제공합니다.",
+  "sb3.ars.fam.desc2": "적절한 몹 근처에서 &bTablet of Binding&r을 사용하여 스크립트를 가져옵니다.",
+  "sb3.ars.fam.task": "Bound Familiars",
+
+  "sb3.ars.robe.title": "로브",
+  "sb3.ars.robe.subtitle": "마법갑옷 만들기",
+  "sb3.ars.robe.desc": "&bRobes&r은 각각의 티어는 이전의 티어보다 더 많은 마력 용량을 증가시킵니다.",
+
+  "sb3.magic.botania.title": "보타니아",
+
+  "sb3.botania.ff.subtitle": "꽃 비료 만들기",
+  "sb3.botania.ff.desc": "&bFloral Fertilizer&r는 사용하면 신비한 꽃이 자랍니다.",
+
+  "sb3.botania.pa.subtitle": "Petal Apothecary 만들기",
+  "sb3.botania.pa.desc": "&bPetal Apothecary&r는 재료와 물을 결합하여 마법의 꽃을 만듭니다. ",
+
+  "sb3.botania.pd.subtitle": "순수한 데이지 만들기",
+  "sb3.botania.pd.desc": "&bPure Daisy&r은 주변의 돌과 통나무를 Livingrock과 Livingwood로 변환합니다.",
+
+  "sb3.botania.mps.subtitle": "마나풀과 마나스프레더 만들기",
+  "sb3.botania.mps.desc": "&bMana Pool&r은 마나를 저장하고 Mana Spreader는 마나를 이동합니다.",
+
+  "sb3.botania.ef.subtitle": "Endoflame 만들기",
+  "sb3.botania.ef.desc": "&bEndoflame&r은 화로에 사용되는 연료에서 마나를 생성합니다.",
+
+  "sb3.botania.ra.subtitle": "룬 Runic Altar",
+  "sb3.botania.ra.desc": "&bRunic Altar&r는 아이템을 만드는데 사용합니다.",
+
+  "sb3.botania.tap.subtitle": "Terrestrial Agglomeration Plate 만들기",
+  "sb3.botania.tap.desc": "&bTerrestrial Agglomeration Plate&r는 &bSparks&r(스파크로 인근 마나 웅덩이에 연결됨)의 마나를 사용하여 Terrasteel을 제작합니다.",
+
+  "sb3.botania.egc.subtitle": "Elven Gateway Core 만들기",
+  "sb3.botania.egc.desc": "&bElven Gateway Core&r는 &6Portal to Alfheim&r의 심장입니다. 물건을 얻으려면 물건을 던지십시오.",
+
+  "sb3.botania.e.subtitle": "엘리멘티움 가져오기",
+  "sb3.botania.e.desc": "&bElementium&r은 포털을 통해 Alfheim으로 Manasteel을 던져서 만들어집니다.",
+
+  "sb3.botania.st.subtitle": "스파크 팅커러 만들기",
+  "sb3.botania.st.desc": "&bSpark Tinkerer&r를 사용하면 &bSpark Augment&r를 스파크에 설치할 수 있습니다.",
+  "sb3.botania.st.task": "스파크 개조",
+
+  "sb3.botania.gp.subtitle": "Gaia Pylon 만들기",
+  "sb3.botania.gp.desc": "&bGaia Pylon&r은(는) &6Guardian of Gaia&r를 생성하고 싸우는 데 필요합니다.",
+
+  "sb3.botania.gog.subtitle": "Guardian of Gaia 처치",
+
+  "sb3.botania.gog.desc": "&bGuardian of Gaia&r은 가이아 의식을 통해 소환됩니다. 죽이는 것은 어렵지만 진행에 필요한 전리품을 떨어뜨립니다.",
+  "sb3.botania.ems.subtitle": "Elven Mana Spreader 만들기",
+  "sb3.botania.ems.desc": "&bElven Mana Sprader&r은 Mana Spreader의 업그레이드 버전입니다.",
+
+  "sb3.botania.gms.subtitle": "가이아 마나 스프레더 만들기",
+  "sb3.botania.gms.desc": "&bGaia Mana Spreader기&r은 Elven Mana Spreader의 업그레이드 버전입니다.",
+
+  "sb3.botania.gs.subtitle": "Gaia Spirit 얻기",
+  "sb3.botania.gs.desc": "Guardian of Gaia에게서 &bGaia Spirits&r 드랍.",
+
+  "sb3.botania.gsi.subtitle": "Gaia Spirit Ingot 얻기",
+  "sb3.botania.gsi.desc1": "가이아의 수호자의 두 번째 버전을 소환하고 싸우려면 &bGaia Spirit Ingot&r이 필요합니다.",
+  "sb3.botania.gsi.desc2": "이 싸움은 훨씬 더 어렵지만 더 큰 보상이 있습니다.",
+
+  "sb3.botania.dof.subtitle": "운명의 주사위 받기",
+  "sb3.botania.dof.desc": "&bDice of Fate&r(두 번째 가이아의 수호자가 떨어뜨림)은 랜덤으로 독특하고 강력한 아이템을 줄 것입니다.",
+
+  "sb3.magic.blood_magic.title": "블러드 매직",
+
+  "sb3.bm.ba.subtitle": "피의 제단 만들기",
+  "sb3.bm.ba.desc1": "&bBlood Altar&r는 LP(기본적으로 혈액)를 저장하고 이를 사용하여 아이템을 만듭니다.",
+  "sb3.bm.ba.desc2": "지금은 &bSacrificial Knife&r로 자신의 체력을 사용하여 채우십시오.",
+
+  "sb3.bm.wbo.subtitle": "Weak Blood Orb 만들기",
+  "sb3.bm.wbo.desc1": "&bBlood Orbs&r은 의식과 인장을 강화하는 데 사용되는 &6Soul Network&r이라는 LP 풀을 제공합니다.",
+  "sb3.bm.wbo.desc2": "&bWeak Blood Orb&r는 첫 번째이자 가장 작으며 &65,000 LP&r을 보유하고 있습니다. 바인딩하고 마우스 오른쪽 버튼을 클릭하여 채우십시오. 또한 Blood Altar에서 채울 수도 있습니다.",
+
+  "sb3.bm.abo.subtitle": "Apprentice Blood Orb 만들기",
+  "sb3.bm.abo.desc": "&bApprentice Blood Orb&r는 &625,000 LP&r를 보유하고 있습니다.",
+
+  "sb3.bm.mbo.subtitle": "Magician Blood Orb 만들기",
+  "sb3.bm.mbo.desc": "&bMagician Blood Orb&r는 &6150,000 LP&r를 보유하고 있습니다.",
+
+  "sb3.bm.mbo2.subtitle": "Master Blood Orb 만들기",
+  "sb3.bm.mbo2.desc": "&bMaster Blood Orb&r는 &61,000,000 LP&r를 보유하고 있습니다.",
+
+  "sb3.bm.abo2.subtitle": "Archmage Blood Orb 만들기",
+  "sb3.bm.abo2.desc": "&bArchmage Blood Orb&r는 &610,000,000 LP&r를 보유하고 있습니다.",
+
+  "sb3.bm.aa.subtitle": "Arcane Ashe 만들기",
+  "sb3.bm.aa.desc": "&bArcane Ashes&r는 &6Alchemy Arrays&r에 사용되며, 아이템을 제작하거나 다른 기능을 수행합니다.",
+
+  "sb3.bm.sl.subtitle": "Slate 만들기",
+  "sb3.bm.sl.desc1": "&bBlank Slates&r는 모드에서 가장 기본적인 재료 중 일부입니다. 최소한 1,000LP가 들어 있는 피의 제단에 돌을 놓기만 하면 됩니다.",
+  "sb3.bm.sl.desc2": "스톤 2개를 넣으면 동시에 제작을 시도하며 비용은 2,000 LP입니다. 2,000 LP가 없으면 제작이 실패하고 LP가 낭비될 것입니다.",
+
+  "sb3.bm.ss.subtitle": " Soul Snare 만들기",
+  "sb3.bm.s.desc": "몹에게 &bSoul Snares&r를 던지면 흰색 입자를 얻을 확률이 있습니다. 죽이면 &6Demon Will&r이 떨어집니다.",
+
+  "sb3.bm.dw.subtitle": "Demon Will 얻기",
+  "sb3.bm.dw.desc": "&bDemon Will&r은 올가미 몹에서 떨어집니다. Will 품질은 무작위입니다.",
+
+  "sb3.bm.tg.title": "Tartaric Gems",
+  "sb3.bm.tg.subtitle": "Tartaric Gem 만들기",
+  "sb3.bm.tg.desc": "&bTartaric Gems&r은(는) Demon Will을 얻을때 흡수하여 저장합니다.",
+
+  "sb3.bm.hf.subtitle": "Hellfire Forge 만들기",
+  "sb3.bm.hf.desc": "&bHellfire Forge&r은 Will(Will 아이템 자체 또는 Tartaric Gem)을 사용하여 아이템을 제작합니다.",
+
+  "sb3.bm.bat.title": "피의제단 티어",
+  "sb3.bm.bat.subtitle": "Tier 2 Blood Altar 만들기",
+  "sb3.bm.bat.desc1": "&6Blood Altar&r은(는) 주변에 특정 블록을 배치하여 5단계로 업그레이드할 수 있습니다.",
+  "sb3.bm.bat.desc2": "두 번째 티어는 8개의 &bRunes&r이 주위에 한 블록 아래에 있는 원 안에 배치되어야 합니다. 룬은 제단 업그레이드로 두 배가 되며 기능이 어떤 식으로든 변경됩니다.",
+  "sb3.bm.bat.desc3": "특정 제작법에는 더 높은 티어가 필요합니다. 각각에 대한 전체 안내서는 &6Sanguine Scientem&r을 참조하십시오.",
+  "sb3.bm.bat.task": "8x 룬",
+
+  "sb3.bm.ds.subtitle": "Dagger of Sacrifice 만들기",
+  "sb3.bm.ds.desc": "&bDagger of Sacrifice&r을 사용하면 자신의 에너지 대신 몹의 생명력을 사용하여 LP를 만들 수 있습니다.",
+
+  "sb3.bm.at.subtitle": "Alchemy Table 만들기",
+  "sb3.bm.at.desc": "&bAlchemy Table&r은 Soul Network의 LP를 사용하여 아이템을 제작합니다.",
+
+  "sb3.bm.br.subtitle": "Binding Reagent 만들기",
+  "sb3.bm.br.desc": "&bBinding Reagent&r은(는) &6사용하는 방법에 따라 스스로 업그레이드&r하는 믿을 수 없을 정도로 강력한 방어구 세트인 &6Living Armor&r를 만드는데 사용됩니다.",
+
+  "sb3.bm.sig.title": "Sigils",
+  "sb3.bm.sig.subtitle": "모든 Sigil 만들기",
+  "sb3.bm.sig.desc": "&bSigils&r은 Soul Network의 LP를 사용하여 조명 배치 또는 작물 재배와 같은 다양한 기능을 수행합니다.",
+
+  "sb3.bm.ritual.title": "Rituals",
+  "sb3.bm.ritual.subtitle": "Rituals을 위한 재료가져오기",
+  "sb3.bm.ritual.desc1": "&bRituals&r은 Soul Network의 LP를 사용하여 다양한 작업을 수행합니다. 이들의 효과는 &6광석 생성&r, &6작물 재배&r 및 LP&r에 대한 &6몹 피해&r로 다양합니다.",
+  "sb3.bm.ritual.desc2": "이는 &bMaster Ritual Stone&r을 중심으로 하고 많은 &bRitual Stones&r이 근처에 배치되고 &bInscription Tools&r로 채색되고 마지막으로 &bActivation Crystal&r로 활성화됩니다.",
+  "sb3.bm.ritual.desc3": "&6Ritual Diviner&r로 의식 멀티블록을 구성하는 것이 좋습니다.",
+  "sb3.bm.ritual.task": "Inscription Tools",
+
+  "sb3.bm.rd.subtitle": "의식을 거행하기",
+  "sb3.bm.rd.desc": "&bRitual Diviner&r 사용하면 공기를 웅크리기+왼쪽 또는 오른쪽 클릭하여 의식을 선택한 다음 마스터 의식 돌에 사용하여 해당 의식을 위한 의식 돌을 배치하고 색칠할 수 있습니다. .",
+
+  "sb3.bm.edge.title": "Edge of the Hidden Realm",
+  "sb3.bm.edge.subtitle": "던전 방문",
+  "sb3.bm.edge.desc1": "&bEdge of the Hidden Realm&r Ritual은 &6철 열쇠&r로 잠금 해제된 4개의 방으로 구성된 &6dungeon 차원&r으로 당신을 보낼 것입니다.",
+  "sb3.bm.edge.desc2": "같은 Inversion Pillar를 사용하면 항상 같은 던전으로 이동합니다. 의식을 다시 실행하여 새 던전을 만들어야 합니다.",
+
+  "sb3.storage.title": "저장소",
+
+  "sb3.storage.drawers.title": "Functional Storage",
+  "sb3.storage.drawers.subtitle": "Drawer 만들기",
+  "sb3.storage.drawers.desc1": "&eFunctional Storage&r는 기본적으로 &eStorage Drawers&r와 유사하지만 몇 가지 변경 사항이 있습니다.",
+  "sb3.storage.drawers.desc2": "기본 사항은 동일합니다. &bDrawers&r는 많은 양의 단일 아이템을 저장합니다. &bCompacting Drawers&r는 아이템을 블록, 주괴 및 너겟 형태로 표시합니다.",
+  "sb3.storage.drawers.task1": "서랍",
+  "sb3.storage.drawers.task2": "Compacting Drawers",
+
+  "sb3.storage.storagecontroller.subtitle": "Storage Controller 만들기",
+  "sb3.storage.storagecontroller.desc1": "&bStorage Controller&r은(는) 드로어 인벤토리 &6을(를) 건드리지 않고 연결할 수 있습니다.",
+  "sb3.storage.storagecontroller.desc2": "컨트롤러를 서랍에 연결하려면 &bLinking Tool&r를 사용하십시오.",
+
+  "sb3.storage.armory.subtitle": "Armory 만들기",
+  "sb3.storage.armory.desc1": "&bArmory&r는 &6최대 4096개의 쌓을 수 없는 아이템&r을 어떤 조합으로든 저장할 수 있습니다.",
+  "sb3.storage.armory.desc2": "열리지 않습니다.&r, GUI가 없습니다. 자동화를 통해서만 삽입 및 추출할 수 있습니다.",
+
+  "sb3.storage.fcups.title": "업그레이드",
+  "sb3.storage.fcups.subtitle": "Drawer Upgrade 만들기",
+  "sb3.storage.fcups.desc1": "각각의 유형으로 Drawer를 업그레이드(&b업그레이드&r)합니다.",
+  "sb3.storage.fcups.desc2": "두 가지 유형으로 제공되며 다른 슬롯에 넣습니다. &6Storage&r 업그레이드는 서랍의 저장 잠재력을 증가시키고 &6Utility&r 업그레이드는 서랍 기능을 변경합니다.",
+
+  "sb3.storage.bhu.title": "Black Hole Units",
+  "sb3.storage.bhu.subtitle": "Black Hole Unit 만들기",
+  "sb3.storage.bhu.desc1": "&bBlack Hole Units&r는 단일 아이템의 방대한 양을 저장합니다.",
+  "sb3.storage.bhu.desc2": "각 티어는 이전 티어보다 기하급수적으로 더 많이 보유합니다.",
+
+  "sb3.storage.bht.title": "Black Hole Tanks",
+  "sb3.storage.bht.subtitle": "Black Hole Tank 만들기",
+  "sb3.storage.bht.desc1": "&bBlack Hole Tank&r는 많은 양의 유체를 저장합니다.",
+  "sb3.storage.bht.desc2": "각 티어는 이전 티어보다 기하급수적으로 더 많이 보유합니다.",
+
+  "sb3.storage.bhc.subtitle": "Black Hole Controller 만들기",
+  "sb3.storage.bhc.desc1": "&bBlack Hole Controller&r는 16개의 블랙홀 장치/탱크를 저장할 수 있으며 &6그들의 인벤토리를 통합합니다&r.",
+  "sb3.storage.bhc.desc2": "즉, 컨트롤러는 보유하고 있는 모든 유닛/탱크가 하나의 인벤토리로 결합된 것처럼 보일것입니다.",
+
+  "sb3.rs.c.subtitle": "Controller 만들기",
+  "sb3.rs.c.desc": "&bController&r는 &eRefined Storage&r 네트워크의 핵심입니다.",
+
+  "sb3.rs.dd.subtitle": "Disk Drive 만들기",
+  "sb3.rs.dd.desc": "&bDisk Drive&r에는 아이템이나 유체를 저장하는 디스크가 있습니다.",
+
+  "sb3.rs.id.title": "Item Disks",
+  "sb3.rs.id.subtitle": "Item Disk 만들기",
+  "sb3.rs.id.desc": "&bItem Disks&r는 아이템을 저장합니다. Grid를 통해 접속할 수 있습니다.",
+
+  "sb3.rs.fd.title": "Fluid Disks",
+  "sb3.rs.fd.subtitle": "Fluid Disks 만들기",
+  "sb3.rs.fd.desc": "&bFluid Disks&r은 유체를 저장합니다. Fluid Grid를 통해 접속할 수 있습니다.",
+
+  "sb3.rs.g.subtitle": "Grid 만들기",
+  "sb3.rs.g.desc": "&bGrid&r를 사용하면 네트워크에 있는 디스크의 내용에 접속할 수 있습니다.",
+
+  "sb3.rs.cg.subtitle": "Crafting Grid 만들기",
+  "sb3.rs.cg.desc": "&bCrafting Grid&r에는 3x3 제작 GUI가 있습니다.",
+
+  "sb3.rs.wg.subtitle": "Wireless Grid 만들기",
+  "sb3.rs.wg.desc": "&bWireless Grid&r은(는) 네트워크에 무선으로 접속할 수 있습니다.",
+
+  "sb3.rs.wcg.subtitle": "Wireless Crafting Grid 만들기",
+  "sb3.rs.wcg.desc": "&bWireless Crafting Grid&r은(는) 네트워크에 무선으로 접속할 수 있습니다.",
+
+  "sb3.rs.pg.subtitle": "Pattern Grid 만들기",
+  "sb3.rs.pg.desc": "&bPattern Grid&r은 자동 제작에 필요한 &6Patterns&r을 인코딩할 수 있습니다.",
+
+  "sb3.rs.cr.subtitle": "Crafter 만들기",
+  "sb3.rs.cr.desc": "&bCrafters&r은 패턴을 사용하여 제작합니다.",
+
+  "sb3.rs.fg.subtitle": "Fluid Grid 만들기",
+  "sb3.rs.fg.desc": "&bFluid Grid&r은 네트워크의 Fluid Disks에 접속할 수 있습니다.",
+
+  "sb3.rs.r.subtitle": "Requester 만들기",
+  "sb3.rs.r.desc": "네트워크에 지정된 아이템이 일정량 미만이면 &bRequester&r가 자동으로 제작요청 합니다.",
+
+  "sb3.ae2.p.title": "Inscriber Presses",
+  "sb3.ae2.p.subtitle": "Inscriber Press 만들기",
+  "sb3.ae2.p.desc": "&bInscriber Press&r는 &bInscriber&r를 통해 다양한 &6회로&r를 만듭니다.",
+
+  "sb3.ae2.c.subtitle": "컨트롤러 만들기",
+  "sb3.ae2.c.desc": "&bController&r는 &eAE2&r 네트워크의 핵심이며 추가 장치에 대한 채널을 제공합니다.",
+
+  "sb3.ae2.d.subtitle": "ME 드라이브 만들기",
+  "sb3.ae2.d.desc": "&bME Drive&r에 &6Storage Cell&r을 보관합니다.",
+
+  "sb3.ae2.ic.title": "Item Storage Cells",
+  "sb3.ae2.ic.subtitle": "Item Storage Cell 만들기",
+  "sb3.ae2.ic.desc": "&bItem Storage Cell&r은 아이템을 저장합니다.",
+
+  "sb3.ae2.fc.title": "Fluid Storage Cells",
+  "sb3.ae2.fc.subtitle": "Fluid Storage Cell 만들기",
+  "sb3.ae2.fc.desc": "&bFluid Storage Cell&r은 유체를 저장합니다.",
+
+  "sb3.ae2.t.subtitle": "ME 터미널 만들기",
+  "sb3.ae2.t.desc": "&bME Terminal&r을(를) 사용하면 네트워크의 아이템과 유체에 접속할 수 있습니다.",
+
+  "sb3.ae2.st.subtitle": "ME Security Terminal 만들기",
+  "sb3.ae2.st.desc1": "&bME Security Terminal&r을(를) 사용하면 다른 플레이어가 ME 시스템과 상호 작용할 수 있는 방법을 선택할 수 있습니다.",
+  "sb3.ae2.st.desc2": "이는 또한 &6Wireless Terminals&r이 네트워크에 바인딩되는 곳이기도 합니다.",
+
+  "sb3.ae2.wt.subtitle": "Wireless Terminal 만들기",
+  "sb3.ae2.wt.desc": "&bMake a Wireless Terminal&r은 네트워크에 대한 무선 접속을 허용합니다.",
+
+  "sb3.ae2.ct.subtitle": "ME Crafting Terminal 만들기",
+  "sb3.ae2.ct.desc": "&bME Crafting Terminal&r에는 3x3 제작 GUI가 있습니다.",
+
+  "sb3.ae2.wct.subtitle": "Wireless Crafting Terminal",
+  "sb3.ae2.wct.desc": "&bWireless Crafting Terminal&r에는 3x3 제작 GUI가 있습니다.",
+
+  "sb3.ae2.pet.subtitle": "ME Pattern Encoding Terminal 만들기",
+  "sb3.ae2.pet.desc": "&bME Pattern Encoding Terminal&r은 자동 제작에 필요한 &6Pattern&r을 인코딩할 수 있습니다.",
+
+  "sb3.ae2.pat.subtitle": "ME Pattern Access Terminal 만들기",
+  "sb3.ae2.pat.desc": "&bME Pattern Access Terminal&r을(를) 사용하면 네트워크의 모든 패턴 제공자에 접속할 수 있습니다.",
+
+  "sb3.ae2.pp.subtitle": "ME Pattern Provider 만들기",
+  "sb3.ae2.pp.desc": "&bME Pattern Provider&r는 자동제작요청 재료가 전송되는 곳입니다.",
+
+  "sb3.ae2.cs.title": "CPU 제작",
+  "sb3.ae2.cs.task": "Storage 제작",
+  "sb3.ae2.cs.subtitle": "제작 CPU 만들기",
+  "sb3.ae2.cs.desc": "&bCrafting Storage&r 및 &bCrafting Co-Processors&r를 서로 인접하게 배치하면 &bCrafting CPU&r이(가) 완성되고, 자동제작요청을 할 수 있습니다.",
+
+  "sb3.ae2.ma.subtitle": "Molecular Assembler 만들기",
+  "sb3.ae2.ma.desc": "&bMolecular Assembler&r은 ME Pattern Provider에 연결될때 일반 레시피를 자동 제작합니다.",
+
+  "sb3.storage.modular.subtitle": "Modular Storage 만들기",
+  "sb3.storage.modular.task": "Modular Storage",
+  "sb3.storage.modular.desc1": "&bModular Storage&r는 내부에 단일 &bStorage Module&r을 저장할 수 있습니다.",
+  "sb3.storage.modular.desc2": "각 상위 티어의 모듈은 추가로 100개의 아이템을 저장할 수 있습니다.",
+
+  "sb3.storage.scanner.subtitle": "Storage Scanner 만들기",
+  "sb3.storage.scanner.desc": "&bStorage Scanner&r은(는) 근처에 있는 모든 인벤토리의 내용에 접속할 수 있습니다.",
+
+  "sb3.storage.ps.title": "Pocket Storage",
+  "sb3.storage.ps.subtitle": "Pocket Storage 만들기",
+  "sb3.storage.ps.desc1": "&bPocket Storages&r은(는) 소량의 고유 아이템만 저장할 수 있지만 각각 많은 양을 저장할 수 있습니다.",
+  "sb3.storage.ps.desc2": "각 티어에는 더 많은 고유한 아이템과 더 많은 아이템이 있습니다.",
+
+  "sb3.storage.sb.title": "Simply Backpacks",
+  "sb3.storage.sb.subtitle": "백팩 만들기",
+  "sb3.storage.sb.desc": "&bBackpacks&r는 아이템을 저장합니다. 각 티어에는 더 많은 아이템이 있습니다. 웅크리기 마우스 오른쪽 버튼을 클릭하여 설정을 편집하십시오.",
+
+  "sb3.armour.title": "The Ultimate Armor",
+
+  "sb3.create.title": "Create",
+
+  "sb3.create.ww.subtitle": "Water Wheel 만들기",
+  "sb3.create.ww.desc": "&bWater Wheel&r은 수류(水流)로 회전할때 회전에너지를 생성합니다.",
+
+  "sb3.create.mp.subtitle": "Mechanical Press 만들기",
+  "sb3.create.mp.desc": "&bMixer&r은 아래 Basin에 있는 아이템을 처리합니다.",
+
+  "sb3.create.mix.subtitle": "Mixer 만들기",
+  "sb3.create.mix.desc": "&bMixer&r은 아래 분지에 있는 아이템을 처리합니다.",
+
+  "sb3.create.wrench.subtitle": "Wrench 만들기",
+  "sb3.create.wrench.desc": "&bWrench&r는 시스템을 구성할 수 있습니다.",
+
+  "sb3.create.bb.subtitle": "Blaze Burner 만들기",
+  "sb3.create.bb.desc": "&bBlaze Burner&r은(는) 일부 &6Mixer&r 레시피에 필요합니다. 모든 화로의 연료를 사용할 수 있지만 &bBlaze Cake&r가 가장 ​​강력합니다.",
+
+  "sb3.create.ma.subtitle": "Mechanical Arm 만들기",
+  "sb3.create.ma.desc": "&bMechanical Arm&r은 기계 벨트보다 훨씬 더 정확하게 아이템을 이동할 수 있습니다.",
+
+  "sb3.create.mc.subtitle": "Mechanical Crafter 만들기",
+  "sb3.create.mc.desc": "&bMechanical Crafter&r은(는) 3x3보다 큰 레시피를 포함하여 레시피를 자동 제작할 수 있습니다.",
+
+  "sb3.create.mb.subtitle": "Mechanical Belt 만들기",
+  "sb3.create.mb.desc": "&bMechanical Belt&b는 아이템과 엔티티를 따라 이동합니다.",
+
+  "sb3.create.rl.subtitle": "Redstone Link 만들기",
+  "sb3.create.rl.desc": "&bRedstone Link&r는 서로 간에 무선으로 레드스톤 신호를 전송할 수 있습니다.",
+
+  "sb3.create.se.subtitle": "Steam Engine 만들기",
+  "sb3.create.se.desc": "&bSteam Engine&r은 아래에 열이 있는 물로 가득 찬 탱크에 놓으면 회전 에너지를 생성합니다.",
+
+  "sb3.create.ts.subtitle": "Train Station 만들기",
+  "sb3.create.ts.desc1": "&eCreate&r에는 광범위한 &bTrain&r 시스템이 있습니다.",
+  "sb3.create.ts.desc2": "솔직히 여기에서 설명하기에는 너무 복잡합니다. 대신 모드의 &6Ponder&r 시스템을 사용하십시오.",
+
+  "sb3.create.em.subtitle": "Electric Motor 만들기",
+  "sb3.create.em.desc": "&bElectric Motor&r는 FE를 회전에너지로 변환합니다.",
+
+  "sb3.create.alt.subtitle": "Alternator 만들기",
+  "sb3.create.alt.desc": "&bAlternator&r는 회전에너지를 FE로 변환합니다.",
+
+  "sb3.create.eg.subtitle": "Engineer's Goggle 고글 만들기",
+  "sb3.create.eg.desc": "&bEngineer's Goggle&r을 착용하면 다양한 기계에 대한 세부정보가 표시됩니다.",
+
+  "sb3.create.mh.subtitle": "Mechanical Harvester 만들기",
+  "sb3.create.mh.desc": "이동 장치의 일부인 동안 &bMechanical Harvester&r는 작물을 수확하고 다시 심을 것입니다.",
+
+  "sb3.misc.title": "기타",
+
+  "sb3.misc.torch.subtitle": "Mega Torch 만들기",
+  "sb3.misc.torch.desc": "&bMega Torch&r이(가) 해당 지역의 몬스터 생성을 차단합니다.",
+
+  "sb3.misc.dread.subtitle": "Dread Lamp 만들기",
+  "sb3.misc.dread.desc": "&bDread Lamp&r는 한 지역에서 패시브 스폰을 차단합니다.",
+
+  "sb3.misc.feral.subtitle": "Feral Flare Lantern 만들기",
+  "sb3.misc.feral.desc": "&bFeral Flare Lantern&r은(는) 보이지 않는 조명을 근처에 배치합니다&r.",
+
+  "sb3.misc.bg.title": "Building Gadgets",
+  "sb3.misc.bg.subtitle": "Building Gadget에서 무언가 만들기",
+  "sb3.misc.bg.desc": "&eBuilding Gadget&r에는 기지 건설을 훨씬 쉽게 해주는 여러 &bGadget&r이 있습니다.",
+
+  "sb3.misc.cs.subtitle": "Charging Station 만들기",
+  "sb3.misc.cs.desc": "&bCharging Station&r에서 FE로 아이템을 충전할 수 있습니다.",
+
+  "sb3.misc.mg.title": "Mining Gadgets",
+  "sb3.misc.mg.subtitle": "마이닝 가젯 만들기",
+  "sb3.misc.mg.desc1": "&bMining Gadgets&r은 FE 비용으로 블록을 채굴하는 레이저를 발사합니다.",
+  "sb3.misc.mg.desc2": "세 가지 유형은 모두 동일하게 작동하며 차이점은 시각적일 뿐입니다.",
+
+  "sb3.misc.mgu.title": "Mining Gadget Upgrades",
+  "sb3.misc.mgu.subtitle": "Upgrade 만들기",
+  "sb3.misc.mgu.desc": "&bUpgrade&r은(는) &bModification Table&r의 마이닝 가젯에 설치할 수 있습니다.",
+  "sb3.misc.mgu.task": "업그레이드",
+
+  "sb3.misc.if.title": "Iron Furnaces",
+  "sb3.misc.if.subtitle": "upgraded Furnace 만들기",
+  "sb3.misc.if.desc": "&eIron Furnaces&r 모드는 제련 속도가 더 빠른 &b화로&r의 여러 티어을 추가합니다.",
+
+  "sb3.misc.temp.subtitle": "Tempad 만들기",
+  "sb3.misc.temp.desc1": "&bTempads&r은 &6한 곳에서 다른 곳으로&r로 텔레포트하는 데 사용됩니다.",
+  "sb3.misc.temp.desc2": "GUI를 열고 \"RUN PROGRAM\"을 선택합니다. 위치를 추가하면 어디서나 해당 위치로 순간이동할 수 있습니다.",
+  "sb3.misc.temp.desc3": "텔레포트는 무료이지만 3분의 재사용 대기시간이 있습니다.",
+
+  "sb3.misc.pouch.title": "Time in a Pouch",
+  "sb3.misc.pouch.subtitle": "Temporal Pouch 만들기",
+  "sb3.misc.pouch.desc": "&bTempral Pouch&r은(는) 인벤토리에 있으면서 천천히 시간을 수집합니다. 기계에 이를 사용하여 저장된 시간을 사용하여 속도를 높일 수 있습니다.",
+
+  "sb3.misc.trash.title": "Trash Cans",
+  "sb3.misc.trash.subtitle": "Trash Can 만들기",
+  "sb3.misc.trash.desc": "&Trash Can&r은(는) 들어온 아이템을 파괴합니다.",
+
+  "sb3.misc.cw.title": "Construction Wand",
+  "sb3.misc.cw.subtitle": "Construction Wands 만들기",
+  "sb3.misc.cw.desc": "&bConstruction Wands&r를 사용하면 많은 수의 블록을 빠르게 배치할 수 있습니다.",
+
+  "sb3.misc.cw.toggle": "웅크린 상태에서 공기를 마우스 왼쪽 버튼으로 클릭하고 지팡이를 잡고 코어 간 전환합니다.",
+
+  "sb3.misc.ac.subtitle": "Angel Core 만들기",
+  "sb3.misc.ac.desc": "&bAngel Core&r을(를) Wand에 설치하여 클릭한 쪽의 반대쪽에 블록을 배치할 수 있습니다.",
+
+  "sb3.misc.dc.subtitle": "Destruction Core 만들기",
+  "sb3.misc.dc.desc": "&bDestruction Core&r을(를) 완드에 설치하면 해당 영역의 블록을 &c완전히 파괴&r할 수 있습니다. 아무 것도 떨어뜨리지 않습니다.",
+
+  "sb3.misc.ent.subtitle": "Entangled Block 만들기",
+  "sb3.misc.ent.desc1": "&bEntangled Block&r을 &bEntangled Binder&r에 사용하여 다른 블록에 연결하면 Entangled Block이 해당 블록인 것처럼 가장합니다.",
+  "sb3.misc.ent.desc2": "이것은 당신이 EB 안팎으로 물건을 파이프할 수 있다는 것을 의미하며, 그것은 멀리 떨어져 있어도 연결된 블록을 대신하여 파이프 인/아웃을 할 것입니다.",
+
+  "sb3.misc.tes.subtitle": "Tesseract 만들기",
+  "sb3.misc.tess.desc": "&bTesseract&r를 사용하면 아이템, 유체 및 에너지를 순간이동할 수 있습니다.",
+
+  "sb3.misc.compact.subtitle": "Compact Machine 만들기",
+  "sb3.misc.compact.desc1": "&bCompact Machine&r에는 &bPersonal Shrinking Device&r로 접근할 수 있는 작은 영역이 내부에 있습니다.",
+  "sb3.misc.compact.desc2": "각 티어에는 이전 티어보다 더 큰 공간이 있습니다. &6Tunnels&r을(를) 사용하여 아이템, 액체 및 에너지를 수송할 수 있습니다.",
+  "sb3.misc.compact.task": "Compact Machines",
+
+  "sb3.misc.pp.title": "Pretty Pipes",
+  "sb3.misc.pp.subtitle": "Pipe 만들기",
+  "sb3.misc.pp.desc": "&bPipe&r가 아이템을 이동합니다. 실제로 작동하려면 &6Module&r이 필요합니다.",
+
+  "sb3.misc.ppm.title": "Modules",
+  "sb3.misc.ppm.subtitle": "Pipe Module 만들기",
+  "sb3.misc.ppm.desc": "&bModule&r을 파이프에 적용하여 작동 방식을 지정할 수 있습니다.",
+
+  "sb3.misc.ppt.title": "Terminals",
+  "sb3.misc.ppt.subtitle": "Terminal 만들기",
+  "sb3.misc.ppt.desc": "&bItem Terminal&r은 모든 파이프의 내용을 표시하고 아이템을 요청할 수 있도록 합니다.",
+
+  "sb3.misc.fp.subtitle": "Fluid Pipe 만들기",
+  "sb3.misc.fp.desc": "&bFluid Pipe&b는 유체를 이동합니다.",
+
+  "sb3.misc.pz.title": "Pipez",
+  "sb3.misc.pz.subtitle": "Pipe 만들기",
+  "sb3.misc.pz.desc": "&bPipe&r는 파이프 유형에 따라 물건을 이동합니다. 소스에 연결된 파이프에서 &bConfigurator&r를 사용해야 합니다.",
+
+  "sb3.misc.pzu.title": "Pipe Upgrade",
+  "sb3.misc.pzu.subtitle": "Pipe Upgrade 만들기",
+  "sb3.misc.pzu.desc": "&bPipe Upgrade&r로 파이프가 더 빠르게 작동합니다.",
+
+  "sb3.endgame.title": "Endgame",
+
+  "sb3.endgame.pe": "ProjectE",
+
+  "sb3.pe.ec.subtitle": "Energy Condenser 만들기",
+  "sb3.pe.ec.desc1": "&bEnergy Condenser&r는 아이템을 EMC로 변환한 다음 EMC를 다른 아이템으로 변환합니다.",
+  "sb3.pe.ec.desc2": "원하는 아이템을 왼쪽 상단 슬롯에 넣고 파괴할 아이템을 인벤토리에 넣으세요.",
+
+  "sb3.pe.ec2.subtitle": "Energy Condenser MK2 만들기",
+  "sb3.pe.ec2.desc": "&bEnergy Condenser MK2&r에는 입력 및 출력에 대한 별도의 인벤토리가 있습니다.",
+
+  "sb3.pe.tt.subtitle": "Transmutation Table 만들기",
+  "sb3.pe.tt.desc1": "&bTransmutation Table&r은 아이템을 분해하여 학습한 다음 EMC(플레이어에 저장됨)로 전환할 수 있습니다.",
+  "sb3.pe.tt.desc2": "EMC를 사용하여 학습한 아이템을 오른쪽에 생성할 수 있습니다.",
+  "sb3.pe.tt.desc3": "EMC를 사용하는 아이템은 왼쪽 슬롯에 충전할 수 있습니다.",
+
+  "sb3.pe.tt2.subtitle": "Transmutation Tablet 만들기",
+  "sb3.pe.tt2.desc": "&bTransmutation Tablet&r은 휴대용 변환 테이블입니다.",
+
+  "sb3.pe.att.subtitle": "Arcane Transmutation Tablet",
+  "sb3.pe.att.desc": "&bArcane Transmutation Tablet&r은 더 나은 GUI와 더 나은 기능을 갖춘 업그레이드된 변환 태블릿입니다.",
+
+  "sb3.pe.at.subtitle": "Alchemy Table 만들기",
+  "sb3.pe.at.desc": "&bAlchemy Table&r은 Energy Collectors에서 제공하는 EMC를 사용하여 아이템을 다른 아이템으로 변환할 수 있습니다.",
+
+  "sb3.pe.col.title": "Energy Collectors",
+  "sb3.pe.col.subtitle": "Energy Collector 만들기",
+  "sb3.pe.col.desc": "&bEnergy Collectors&r &6수동적으로 EMC&r을 생성하여 Energy Condenser와 같은 인접 블록으로 보냅니다.",
+
+  "sb3.pe.col2.title": "Energy Collectors+",
+  "sb3.pe.col2.subtitle": "더 높은 단계의 Energy Collector 만들기",
+  "sb3.pe.col2.desc": "&eExtendedeXchange&r 애드온의 &bEnergy Collectors&r이 훨씬 더 높은 티어에 도달하여 초당 기하급수적으로 더 많은 EMC를 생성합니다.",
+
+  "sb3.pe.amr.title": "Anti-Matter Relays",
+  "sb3.pe.amr.subtitle": "Anti-Matter Relay 만들기",
+  "sb3.pe.amr.desc1": "&bAnti-Matter Relay&r는 EMC를 인접한 에너지 수집기(Energy Collector)에서 인접한 에너지 응축기(Energy Condenser)로 전송합니다. 이 방법으로 6개 대신 18개의 수집기를 사용할 수 있습니다.",
+  "sb3.pe.amr.desc2": "여기에서 EMC 보유 아이템으로 충전할 수도 있습니다.",
+
+  "sb3.pe.amr2.title": "Anti-Matter Relays+",
+  "sb3.pe.amr2.subtitle": "더 높은 티어의 Anti-Matter Relay 만들기",
+  "sb3.pe.amr2.desc": "&bAnti-Matter Relays&r 애드온 &eExtendedeXchange&r에서 훨씬 더 높은 티어에 도달하여 초당 기하급수적으로 더 많은 EMC를 이동합니다. 그러나 &c아이템을 충전할 수는 없습니다&r.",
+
+  "sb3.pe.tok.subtitle": "Tome of Knowledge 만들기",
+  "sb3.pe.tok.desc": "&bTome of Knowledge&r는 Transmutation Tablet을 통해 &6모든 아이템을 학습시킬 것입니다.&r",
+
+  "sb3.pe.eml.subtitle": "Energy EMC Link 만들기",
+  "sb3.pe.eml.desc": "&bEnergy EMC Link&r는 EMC를 가져와(수집기 및 릴레이 등에서) 소유자의 개인 EMC에 삽입합니다.",
+
+  "sb3.pe.ps.subtitle": "Philosopher's Stone 만들기",
+  "sb3.pe.ps.desc": "&bPhilosopher's Stone&r을(를) 사용하면 제작하거나 마우스 오른쪽 버튼을 클릭하여 동등한 아이템 및 블록을 통해 변환할 수 있습니다.",
+
+  "sb3.pe.woft.subtitle": "Watch of Flowing Time 만들기",
+  "sb3.pe.woft.desc1": "&bWatch of Flowing Time&r은 EMC를 희생시키면서 근처에 있는 기계의 속도를 높일 것입니다.",
+  "sb3.pe.woft.desc2": "기본적으로 바인딩되지 않은 \"Change Mode\" 키 바인딩으로 활성화합니다.",
+
+  "sb3.pe.fuel.title": "Morbius Fuel",
+  "sb3.pe.fuel.subtitle": "alchemical Fuel 만들기",
+  "sb3.pe.fuel.desc": "&bAlchemical Fuels&r은(는) 일반 석탄보다 더 많은 아이템을 제련하며 특정 레시피에 사용됩니다.",
+
+  "sb3.pe.klein.title": "Klein Stars",
+  "sb3.pe.klein.subtitle": "Klein Star 만들기",
+  "sb3.pe.klein.desc": "&bKlein Star&r(및 &bMagnum Stars&r)은 EMC를 인벤토리에 저장합니다.",
+
+  "sb3.pe.dm.subtitle": "Dark Matter 만들기",
+  "sb3.pe.dm.desc": "&bDark Matter&r은 여러 제작법에 사용됩니다.",
+
+  "sb3.pe.rm.subtitle": "Red Matter 만들기",
+  "sb3.pe.rm.desc": "&bRed Matter&r은 여러 제작법에 사용됩니다.",
+
+  "sb3.pe.dmt.title": "Dark Matter Tools",
+  "sb3.pe.dmt.subtitle": "Dark Matter Tool 만들기",
+  "sb3.pe.dmt.desc1": "&bDark Matter Tool&r는 깨지지 않으며 특별한 능력이 있습니다.",
+  "sb3.pe.dmt.desc2": "파워는 &6\"Charge\"&r 키를 사용하여 증가할 수 있으며 모드는 &6\"Change Mode\"&r 키를 사용하여 변경할 수 있습니다.",
+
+  "sb3.pe.rings.title": "Rings of Power",
+  "sb3.pe.rings.subtitle": "alchemical ring 만들기",
+  "sb3.pe.rings.desc": "이 &balchemical ring&r은 착용하거나 마우스 오른쪽 버튼을 클릭하면 다양한 기능을 수행합니다.",
+  "sb3.pe.rings.task": "Alchemical rings",
+
+  "sb3.pe.dma.title": "Dark Matter Armor",
+  "sb3.pe.dma.subtitle": "Dark Matter Armor 만들기",
+  "sb3.pe.dma.desc": "&bDark Matter armor&r은 깨지지 않으며 데미지저항이 매우강합니다.",
+
+  "sb3.pe.rma.title": "Red Matter Armor",
+  "sb3.pe.rma.subtitle": "Red Matter Armor 만들기",
+  "sb3.pe.rma.desc": "&bRed Matter armor&r는 깨지지 않으며 데미지저항이 더욱강합니다.",
+
+  "sb3.pe.gma.title": "Gem Armor",
+  "sb3.pe.gma.subtitle": "Gem Armor 만들기",
+  "sb3.pe.gma.desc": "&bGem Armor&r는 파괴되지않고, 비행할 수 있으며, 데미지저항이 매우매우 강합니다.",
+
+  "sb3.pe.rmt.title": "Red Matter Tools",
+  "sb3.pe.rmt.subtitle": "Red Matter Tool 만들기",
+  "sb3.pe.rmt.desc": "&bRed Matter Tool&r는 Dark Matter 버전에 대한 업그레이드버전 입니다.",
+
+  "sb3.pe.rmt2.title": "Upgraded Red Matter Tools",
+  "sb3.pe.rmt2.subtitle": "Upgraded Red Matter Tool 만들기",
+  "sb3.pe.rmt2.desc": "&bRed Morning Star&r는 Upgraded Red Matter Tool의 조합이고 &bRed Katar&r는 무기의 조합입니다.",
+
+  "sb3.pe.flower.title": "Flower Power",
+  "sb3.pe.flower.subtitle": "모든 티어의 power flower 만들기",
+  "sb3.pe.flower.desc": "power flower는 입력 요구 사항 없이 EMC를 자동으로 생성할 수 있습니다. 16개 티어을 사용할 수 있으므로 EMC 요구 사항을 쉽게 충족할 수 있습니다.",
+  "sb3.pe.flower.desc2": "파워 플라워, 플라워 파워를 10번 빠르게 말해 보세요!",
+
+  "sb3.pe.elink.subtitle": "Personal EMC Link 만들기",
+  "sb3.pe.elink.desc1": "&bPersonal EMC Link&r는 에너지 콘덴서처럼 작동하지만 개인 EMC를 사용합니다.",
+  "sb3.pe.elink.desc2": "아이템을 파이프로 인/아웃할 수 있습니다.",
+
+  "sb3.pe.elink2.subtitle": "Refined EMC Link 만들기",
+  "sb3.pe.elink2.desc1": "&bRefined EMC Link&r은 개인 EMC를 사용하여 9개의 아이템을 지속적으로 비축해 둡니다.",
+  "sb3.pe.elink2.desc2": "아이템을 삽입하여 학습시키면 아이템이 입고된 상태로 유지됩니다.",
+
+  "sb3.pe.elink3.subtitle": "Compressed Refined EMC Link 만들기",
+  "sb3.pe.elink3.desc": "정련된 EMC Refined EMC Link &6546r 출력 슬롯이 있습니다.",
+
+  "sb3.endgame.avaritia_armor.title": "The Ultimate Armor",
+
+  "sb3.endgame.avaritia_armor.boots.title": "패션 리더",
+  "sb3.endgame.avaritia_armor.boots.subtitle": "Infinity Boot 만들기",
+
+  "sb3.endgame.avaritia_armor.leggings.title": "이 사진에서 내 엉덩이가 커 보입니까?",
+  "sb3.endgame.avaritia_armor.leggings.subtitle": "Infinity Leggings 만들기",
+
+  "sb3.endgame.avaritia_armor.chestplate.title": "Ultimate Armor의 흉갑",
+  "sb3.endgame.avaritia_armor.chestplate.subtitle": "Infinity Chestplate 만들기",
+
+  "sb3.endgame.avaritia_armor.helm.title": "나는 지금 이 현실 너머를 본다",
+  "sb3.endgame.avaritia_armor.helm.subtitle": "Infinity Helmet 만들기",
+
+  "sb3.endgame.avaritia_armor.sword.title": "Ultimate Armor의 검",
+  "sb3.endgame.avaritia_armor.sword.subtitle": "발가락이 다친 것보다 더 아파요",
+  "sb3.endgame.avaritia_armor.sword.description": "",
+
+  "sb3.endgame.avaritia_armor.pickaxe.title": "Ultimate Armor의 곡괭이",
+  "sb3.endgame.avaritia_armor.pickaxe.subtitle": "벽이 강화유리처럼 무너집니다",
+  "sb3.endgame.avaritia_armor.pickaxe.description": "",
+
+  "sb3.endgame.avaritia_armor.axe.title": "Ultimate Armor의 도끼",
+  "sb3.endgame.avaritia_armor.axe.subtitle": "국가 삼림파괴자",
+  "sb3.endgame.avaritia_armor.axe.description": "",
+
+  "sb3.endgame.avaritia_armor.shovel.title": "Ultimate Armor의 삽",
+  "sb3.endgame.avaritia_armor.shovel.subtitle": "대륙 파수꾼",
+  "sb3.endgame.avaritia_armor.shovel.description": "",
+
+  "sb3.endgame.avaritia_armor.bow.title": "Ultimate Armor의 활",
+  "sb3.endgame.avaritia_armor.bow.subtitle": "흔들리지 않는 목표",
+  "sb3.endgame.avaritia_armor.bow.description": "",
+
+  "sb3.endgame.singularities.title": "Densitas Infinita",
+
+  "sb3.endgame.singularities.sing_pig_iron.title": "Pig Iron Singularity",
+  "sb3.endgame.singularities.sing_pig_iron.description": "",
+
+  "sb3.endgame.singularities.sing_source_gem.title": "Source Gem Singularity",
+  "sb3.endgame.singularities.sing_source_gem.description": "",
+
+  "sb3.endgame.singularities.sing_train_track.title": "Train Track Singularity",
+  "sb3.endgame.singularities.sing_train_track.description": "",
+
+  "sb3.endgame.singularities.sing_palette.title": "Palette and Brush Singularity",
+  "sb3.endgame.singularities.sing_palette.description": "",
+
+  "sb3.endgame.singularities.sing_balloon.title": "Balloon Singularity",
+  "sb3.endgame.singularities.sing_balloon.description": "",
+
+  "sb3.endgame.singularities.sing_infused_enderpearl.title": "Infused Enderpearl Singularity",
+  "sb3.endgame.singularities.sing_infused_enderpearl.description": "",
+
+  "sb3.endgame.singularities.sing_node_overclocker.title": "Node Overclocker Singularity",
+  "sb3.endgame.singularities.sing_node_overclocker.description": "",
+
+  "sb3.endgame.singularities.sing_etherealslate.title": "Ethereal Slate Singularity",
+  "sb3.endgame.singularities.sing_etherealslate.description": "",
+
+  "sb3.endgame.singularities.sing_mana_steel.title": "Mana Steel Singularity",
+  "sb3.endgame.singularities.sing_mana_steel.description": "",
+
+  "sb3.endgame.singularities.sing_flux_block.title": "Flux Block Singularity",
+  "sb3.endgame.singularities.sing_flux_block.description": "",
+
+  "sb3.endgame.singularities.sing_corrupted.title": "Corrupted Ingot Singularity",
+  "sb3.endgame.singularities.sing_corrupted.description": "",
+
+  "sb3.endgame.singularities.sing_uraninite.title": "Uraninite Singularity",
+  "sb3.endgame.singularities.sing_uraninite.description": "",
+
+  "sb3.endgame.singularities.sing_enderium_block.title": "Enderium Block Singularity",
+  "sb3.endgame.singularities.sing_enderium_block.description": "",
+
+  "sb3.endgame.singularities.sing_pet_filter.title": "Pet Filter Singularity",
+  "sb3.endgame.singularities.sing_pet_filter.description": "",
+
+  "sb3.endgame.singularities.sing_mob_soul.title": "Mob Soul Singularity",
+  "sb3.endgame.singularities.sing_mob_soul.description": "",
+
+  "sb3.endgame.singularities.sing_addon_processing_t2.title": "Addon: Processing Tier 2 Singularity",
+  "sb3.endgame.singularities.sing_addon_processing_t2.description": "",
+
+  "sb3.endgame.singularities.sing_polonium_pelle.titlet": "Polonium Pellet Singularity",
+  "sb3.endgame.singularities.sing_polonium_pelle.description": "",
+
+  "sb3.endgame.singularities.sing_nether_star.title": "Nether Star Singularity",
+  "sb3.endgame.singularities.sing_nether_star.description": "",
+
+  "sb3.endgame.singularities.sing_nitro_crystal.title": "Nitro Crystal Singularity",
+  "sb3.endgame.singularities.sing_nitro_crystal.description": "",
+
+  "sb3.endgame.singularities.sing_magenta_matter.title": "Magenta Matter Singularity",
+  "sb3.endgame.singularities.sing_magenta_matter.description": "",
+
+  "sb3.endgame.singularities.sing_emerald_cluster.title": "Emerald Cluster Singularity",
+  "sb3.endgame.singularities.sing_emerald_cluster.description": "",
+
+  "sb3.endgame.singularities.sing_jelly.title": "XP Jelly Baby Singularity",
+  "sb3.endgame.singularities.sing_jelly.description": "",
+
+  "sb3.endgame.singularities.meatballs.title": "Cosmic Meatballs",
+  "sb3.endgame.singularities.meatballs.subtitle": "냠냠... 중성자 방출 미트볼",
+  "sb3.endgame.singularities.meatballs.description": "냠냠... 중성자 방출 미트볼",
+
+  "sb3.endgame.singularities.stew.title": "Ultimate Stew",
+  "sb3.endgame.singularities.stew.subtitle": "Ultimate Stew 만들기",
+  "sb3.endgame.singularities.stew.description": "오직 신만이 이 정도를 먹을 수 있다",
+
+  "sb3.endgame.singularities.infinity.title": "Infinity Catalyst",
+  "sb3.endgame.singularities.infinity.subtitle": "Infinity Catalyst 만들기",
+  "sb3.endgame.singularities.infinity.description": "이제 가까이에 있습니다.",
+
+  "sb3.endgame.singularities.neutronium_ingot.title": "Neutronium Ingot",
+  "sb3.endgame.singularities.neutronium_ingot.subtitle": "Neutronium Ingot 만들기",
+
+  "sb3.endgame.singularities.neutronium_pile.title": "요마마 몸무게가 늘었어요!",
+  "sb3.endgame.singularities.neutronium_pile.subtitle": "Neutronium Pile 만들기",
+
+  "sb3.endgame.singularities.record_fragment.title": "Record Fragment",
+  "sb3.endgame.singularities.record_fragment.subtitle": "Record Fragment 만들기",
+  "sb3.endgame.singularities.record_fragment.description": "몇 개의 레코드 조각을 얻으면 infinity catalyst를 만드는데 사용됩니다.",
+
+  "sb3.endgame.singularities.endest_pearl.title": "실내에 던지지 마세요!",
+  "sb3.endgame.singularities.endest_pearl.subtitle": "Endest Pearl 만들기",
+
+  "sb3.endgame.singularities.crystal_matrix.title": "Crystal Matrix",
+  "sb3.endgame.singularities.crystal_matrix.subtitle": "Crystal Matrix Ingot 만들기",
+  "sb3.endgame.singularities.crystal_matrix.description": "모든 다이아몬드를 사용하여 이것들을 제작하십시오",
+
+  "sb3.endgame.singularities.infinity_ingot.title": "Infinity Ingot",
+  "sb3.endgame.singularities.infinity_ingot.subtitle": "어떻게 이것이 현실을 깨트리지 않았을까요?!",
+  "sb3.endgame.singularities.infinity_ingot.description": "이제 136개가 더 있습니다!",
+
+  "sb3.endgame.singularities.crafting.title": "The Ultimate Crafting Table",
+  "sb3.endgame.singularities.crafting.subtitle": "384개의 다이아몬드가 필요합니다!",
+  "sb3.endgame.singularities.crafting.description": "만약 당신이 이것을 만들려고 한다면, 앞으로 일어날 일에 대해 더 잘 준비해야 합니다...",
+
+  "sb3.endgame.singularities.collect.subtitle": "Neutron Collector 만들기",
+  "sb3.endgame.singularities.collect.desc": "6분 정도마다 하나의 작은 중성자 더미를 생성합니다.",
+
+  "sb3.endgame.singularities.nug.subtitle": "Neutronium Nugget 만들기",
+  "sb3.endgame.singularities.ball.subtitle": "Cosmic Meatball 만들기"
+}

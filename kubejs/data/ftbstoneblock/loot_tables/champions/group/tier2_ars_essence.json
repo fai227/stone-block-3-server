@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "ars_nouveau:fire_essence"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "ars_nouveau:earth_essence"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "ars_nouveau:abjuration_essence"
+        }
+      ]
+    }    
+  ]
+}

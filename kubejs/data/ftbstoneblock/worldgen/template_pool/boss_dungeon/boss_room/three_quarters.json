@@ -1,0 +1,33 @@
+{
+  "name": "ftbstoneblock:boss_dungeon/boss_room/three_quarters",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/special/boss_room_2",
+        "projection": "rigid",
+        "processors": "ftbstoneblock:boss_dungeon/barrels"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/special/boss_room_3",
+        "projection": "rigid",
+        "processors": "ftbstoneblock:boss_dungeon/barrels"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/special/boss_room_4",
+        "projection": "rigid",
+        "processors": "ftbstoneblock:boss_dungeon/barrels"
+      }
+    }
+  ]
+}

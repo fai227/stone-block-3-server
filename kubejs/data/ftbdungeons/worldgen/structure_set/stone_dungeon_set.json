@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ftbdungeons:stone_dungeon",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 27,
+    "separation": 20,
+    "salt": 984327549
+  }
+}

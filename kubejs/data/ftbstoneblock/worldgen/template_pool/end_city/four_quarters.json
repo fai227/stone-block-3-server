@@ -1,0 +1,42 @@
+{
+  "name": "ftbstoneblock:end_city/four_quarters",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "ftbstoneblock:end_city/end_city_1",
+        "processors": "ftbstoneblock:end_city/barrels",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "ftbstoneblock:end_city/end_city_2",
+        "processors": "ftbstoneblock:end_city/barrels",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "ftbstoneblock:end_city/end_city_3",
+        "processors": "ftbstoneblock:end_city/barrels",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "ftbstoneblock:end_city/end_city_4",
+        "processors": "ftbstoneblock:end_city/barrels",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

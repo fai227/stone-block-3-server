@@ -1,0 +1,85 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mcwroofs:black_striped_awning",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwroofs:blue_striped_awning",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwroofs:brown_striped_awning",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwroofs:cyan_striped_awning",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwroofs:gray_striped_awning",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwroofs:green_striped_awning",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwroofs:light_blue_striped_awning",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwroofs:light_gray_striped_awning",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwroofs:lime_striped_awning",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwroofs:magenta_striped_awning",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwroofs:orange_striped_awning",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwroofs:pink_striped_awning",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwroofs:purple_striped_awning",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwroofs:red_striped_awning",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mcwroofs:yellow_striped_awning",
+          "weight": 1
+        }
+      ]
+    }    
+  ]
+}

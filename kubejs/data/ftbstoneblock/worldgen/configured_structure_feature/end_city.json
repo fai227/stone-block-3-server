@@ -1,0 +1,38 @@
+{
+  "type": "ftbsbc:dungeon_structure_feature",
+  "biomes": "minecraft:the_end",
+  "adapt_noise": false,
+  "spawn_overrides": {
+    "monster": {
+      "bounding_box": "piece",
+      "spawns": [
+        {
+          "type": "minecraft:shulker",
+          "weight": 4,
+          "minCount": 1,
+          "maxCount": 2
+        },
+        {
+          "type": "minecraft:endermite",
+          "weight": 2,
+          "minCount": 1,
+          "maxCount": 3
+        },
+        {
+          "type": "minecraft:enderman",
+          "weight": 14,
+          "minCount": 4,
+          "maxCount": 4
+        }
+      ]
+    }
+  },
+  "config": {
+    "start_pool": "ftbstoneblock:end_city/initiators",
+    "size": 3,
+    "min_structure_distance": 1750,
+    "max_structure_distance": 2050,
+    "min_height": -80,
+    "max_height": 80
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "immersiveengineering:insulating_glass",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "immersiveengineering:slag_glass",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "immersiveengineering:coil_lv",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "immersiveengineering:coil_mv",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "immersiveengineering:coil_hv",
+          "weight": 1
+        }
+      ]
+    }    
+  ]
+}

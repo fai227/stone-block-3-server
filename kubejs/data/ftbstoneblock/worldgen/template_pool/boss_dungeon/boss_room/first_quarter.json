@@ -1,0 +1,15 @@
+{
+  "name": "ftbstoneblock:boss_dungeon/boss_room/first_quarter",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ftbstoneblock:boss_dungeon/special/boss_room_1",
+        "projection": "rigid",
+        "processors": "ftbstoneblock:boss_dungeon/barrels"
+      }
+    }
+  ]
+}

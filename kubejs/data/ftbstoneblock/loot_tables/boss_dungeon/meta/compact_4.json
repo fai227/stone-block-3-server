@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "compactmachines:tunnel",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{definition:{id:\"compactmachines:energy\"}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "compactmachines:tunnel",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{definition:{id:\"compactmachines:fluid\"}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "compactmachines:tunnel",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{definition:{id:\"compactmachines:item\"}}"
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

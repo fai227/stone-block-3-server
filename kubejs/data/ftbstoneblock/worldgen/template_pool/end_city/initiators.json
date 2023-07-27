@@ -1,0 +1,15 @@
+{
+  "name": "ftbstoneblock:end_city/initiators",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "ftbstoneblock:end_city/initiator",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

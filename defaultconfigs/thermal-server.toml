@@ -1,0 +1,5 @@
+[Machines]
+	[Machines.Crystallizer]
+		#This sets the base power consumption (RF/t) for the Crystallizer.
+		#Range: 1 ~ 200
+		"Base Power" = 160 # This is 32x the default value of 5, because for some reason, this machine is glacially slow by default.

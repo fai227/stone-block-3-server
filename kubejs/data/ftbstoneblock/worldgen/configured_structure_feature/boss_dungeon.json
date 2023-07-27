@@ -1,0 +1,13 @@
+{
+  "config": {
+    "start_pool": "ftbstoneblock:boss_dungeon/boss_room/first_quarter",
+    "size": 10,
+    "min_structure_distance": 2400,
+    "min_height": -80,
+    "max_height": 0
+  },
+  "biomes": "minecraft:forest",
+  "adapt_noise": false,
+  "spawn_overrides": {},
+  "type": "ftbsbc:dungeon_structure_feature"
+}
