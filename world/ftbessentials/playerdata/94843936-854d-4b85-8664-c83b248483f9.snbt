@@ -4,8 +4,12 @@
 	god: false
 	nick: ""
 	name: "niwatori5709"
-	last_seen: { dim: "ftbsbc:team/rainier-wiser-stipes", x: -167, y: -60, z: 9, time: 1690455644706L, xRot: 51.900063f, yRot: -45.571045f }
+	last_seen: { dim: "ftbsbc:team/rainier-wiser-stipes", x: -13, y: 0, z: 0, time: 1690634720715L, xRot: 2.8497884f, yRot: 79.33899f }
 	recording: 0
-	teleport_history: [ ]
+	teleport_history: [
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: -13, y: 0, z: -9, time: 1690473754508L, xRot: 7.650211f, yRot: -96.05469f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 2, y: 32, z: 293, time: 1690478538649L, xRot: 29.850132f, yRot: 94.03833f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: -9, y: -58, z: 475, time: 1690528454145L, xRot: 31.050116f, yRot: 85.52661f }
+	]
 	homes: { }
 }

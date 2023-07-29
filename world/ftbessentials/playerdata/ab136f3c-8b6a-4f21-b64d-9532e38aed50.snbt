@@ -4,8 +4,14 @@
 	god: false
 	nick: ""
 	name: "phi227"
-	last_seen: { dim: "ftbsbc:team/rainier-wiser-stipes", x: 3, y: 1, z: -1, time: 1690450853358L, xRot: 22.452654f, yRot: -138.38477f }
+	last_seen: { dim: "ftbsbc:team/rainier-wiser-stipes", x: 8, y: 0, z: -17, time: 1690635314044L, xRot: 7.2954736f, yRot: 139.41406f }
 	recording: 0
-	teleport_history: [ ]
+	teleport_history: [
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 0, y: 0, z: 85, time: 1690475940053L, xRot: 22.195982f, yRot: -84.55664f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 0, y: 0, z: 81, time: 1690475989524L, xRot: 1.7132814f, yRot: -5.9765015f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: -2, y: 1, z: -26, time: 1690524648597L, xRot: 31.383623f, yRot: 20.131348f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 14, y: -73, z: 433, time: 1690528448115L, xRot: 84.08143f, yRot: -58.035645f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 10, y: -47, z: 577, time: 1690529135804L, xRot: 48.878723f, yRot: 1.6138339f }
+	]
 	homes: { }
 }
