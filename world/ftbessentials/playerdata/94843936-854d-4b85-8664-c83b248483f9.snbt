@@ -4,12 +4,17 @@
 	god: false
 	nick: ""
 	name: "niwatori5709"
-	last_seen: { dim: "ftbsbc:team/rainier-wiser-stipes", x: -13, y: 0, z: 0, time: 1690634720715L, xRot: 2.8497884f, yRot: 79.33899f }
+	last_seen: { dim: "ftbsbc:team/rainier-wiser-stipes", x: -25, y: -1, z: 24, time: 1690832863944L, xRot: 1.1999269f, yRot: -92.25073f }
 	recording: 0
 	teleport_history: [
 		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: -13, y: 0, z: -9, time: 1690473754508L, xRot: 7.650211f, yRot: -96.05469f }
 		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 2, y: 32, z: 293, time: 1690478538649L, xRot: 29.850132f, yRot: 94.03833f }
 		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: -9, y: -58, z: 475, time: 1690528454145L, xRot: 31.050116f, yRot: 85.52661f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 24, y: 1, z: -7, time: 1690640003241L, xRot: 55.799953f, yRot: 103.528534f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 16, y: 1, z: 8, time: 1690701906301L, xRot: 20.85018f, yRot: -44.141235f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: -283, y: 6, z: -3, time: 1690717084692L, xRot: 32.85009f, yRot: 33.591064f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: -289, y: 9, z: 1, time: 1690717235145L, xRot: 58.650005f, yRot: 56.395752f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: -14, y: 2, z: 33, time: 1690832580114L, xRot: -4.499819f, yRot: 101.81372f }
 	]
 	homes: { }
 }

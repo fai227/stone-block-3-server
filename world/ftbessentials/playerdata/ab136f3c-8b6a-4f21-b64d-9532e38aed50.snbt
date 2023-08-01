@@ -4,7 +4,7 @@
 	god: false
 	nick: ""
 	name: "phi227"
-	last_seen: { dim: "ftbsbc:team/rainier-wiser-stipes", x: 8, y: 0, z: -17, time: 1690635314044L, xRot: 7.2954736f, yRot: 139.41406f }
+	last_seen: { dim: "ftbsbc:team/rainier-wiser-stipes", x: 7, y: 0, z: -18, time: 1690852306089L, xRot: 5.2194858f, yRot: -158.82086f }
 	recording: 0
 	teleport_history: [
 		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 0, y: 0, z: 85, time: 1690475940053L, xRot: 22.195982f, yRot: -84.55664f }
