@@ -4,14 +4,19 @@
 	god: false
 	nick: ""
 	name: "phi227"
-	last_seen: { dim: "ftbsbc:team/rainier-wiser-stipes", x: 7, y: 0, z: -18, time: 1690852306089L, xRot: 5.2194858f, yRot: -158.82086f }
+	last_seen: { dim: "ftbsbc:team/rainier-wiser-stipes", x: 0, y: 0, z: 78, time: 1691087966789L, xRot: 5.68585f, yRot: 1.585083f }
 	recording: 0
 	teleport_history: [
-		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 0, y: 0, z: 85, time: 1690475940053L, xRot: 22.195982f, yRot: -84.55664f }
-		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 0, y: 0, z: 81, time: 1690475989524L, xRot: 1.7132814f, yRot: -5.9765015f }
-		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: -2, y: 1, z: -26, time: 1690524648597L, xRot: 31.383623f, yRot: 20.131348f }
-		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 14, y: -73, z: 433, time: 1690528448115L, xRot: 84.08143f, yRot: -58.035645f }
-		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 10, y: -47, z: 577, time: 1690529135804L, xRot: 48.878723f, yRot: 1.6138339f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 10, y: -3, z: 20, time: 1690893025683L, xRot: -55.65534f, yRot: -47.19276f }
+		{ dim: "bloodmagic:dungeon", x: -1003, y: 124, z: 0, time: 1690893603088L, xRot: -19.337337f, yRot: -89.994385f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 12, y: -2, z: 23, time: 1690896781048L, xRot: -24.633228f, yRot: 154.3028f }
+		{ dim: "bloodmagic:dungeon", x: -1001, y: 124, z: -2, time: 1690896801469L, xRot: -22.556519f, yRot: -18.172607f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 11, y: -4, z: 19, time: 1690896813181L, xRot: -63.9865f, yRot: 2.1789563f }
+		{ dim: "bloodmagic:dungeon", x: -1026, y: 129, z: 18, time: 1690896975364L, xRot: 6.3095536f, yRot: -55.07251f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 9, y: -3, z: 20, time: 1690896984289L, xRot: -28.866009f, yRot: -58.66655f }
+		{ dim: "bloodmagic:dungeon", x: -1003, y: 124, z: -1, time: 1690897150641L, xRot: -14.665101f, yRot: -64.98718f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 11, y: -2, z: 20, time: 1690897166997L, xRot: -51.111023f, yRot: 1.3631016f }
+		{ dim: "bloodmagic:dungeon", x: -1002, y: 124, z: -2, time: 1690897543982L, xRot: -15.547603f, yRot: -51.563232f }
 	]
 	homes: { }
 }
