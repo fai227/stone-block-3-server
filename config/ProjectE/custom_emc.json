@@ -2771,6 +2771,14 @@
     {
       "item": "create:scoria",
       "emc": 49
+    },
+    {
+      "item": "mekanism:pellet_polonium",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:air",
+      "emc": 0
     }
   ]
 }

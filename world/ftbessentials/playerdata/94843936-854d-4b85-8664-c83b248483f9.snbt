@@ -4,11 +4,9 @@
 	god: false
 	nick: ""
 	name: "niwatori5709"
-	last_seen: { dim: "ftbsbc:team/rainier-wiser-stipes", x: 17, y: 0, z: -4, time: 1691087256855L, xRot: 43.350018f, yRot: 11.62793f }
+	last_seen: { dim: "ftbsbc:team/rainier-wiser-stipes", x: 257, y: 4, z: 2960, time: 1691322820733L, xRot: 80.10001f, yRot: -163.19606f }
 	recording: 0
 	teleport_history: [
-		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 9, y: -2, z: 21, time: 1690896781984L, xRot: -21.899988f, yRot: -88.34332f }
-		{ dim: "bloodmagic:dungeon", x: -1019, y: 134, z: 13, time: 1690897010620L, xRot: 17.850052f, yRot: 129.75702f }
 		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 10, y: -2, z: 21, time: 1690897036135L, xRot: -37.650024f, yRot: -93.74982f }
 		{ dim: "bloodmagic:dungeon", x: -999, y: 125, z: 1, time: 1690897059368L, xRot: -4.350022f, yRot: 118.95018f }
 		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 8, y: -3, z: 22, time: 1690897076933L, xRot: -36.450024f, yRot: -104.84984f }
@@ -17,6 +15,8 @@
 		{ dim: "bloodmagic:dungeon", x: -1000, y: 124, z: -5, time: 1690897128773L, xRot: -33.00003f, yRot: -73.350044f }
 		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 10, y: -2, z: 22, time: 1690897158832L, xRot: -35.100006f, yRot: -142.9499f }
 		{ dim: "bloodmagic:dungeon", x: -1002, y: 124, z: -2, time: 1690898420484L, xRot: -19.049925f, yRot: -44.694336f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 12, y: -4, z: 24, time: 1691248409771L, xRot: -30.149754f, yRot: 153.22736f }
+		{ dim: "bloodmagic:dungeon", x: -1001, y: 124, z: -2, time: 1691248414724L, xRot: -17.699749f, yRot: -32.322674f }
 	]
 	homes: { }
 }

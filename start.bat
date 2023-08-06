@@ -17,4 +17,4 @@ set /p EULA=[y/n]
 IF /I "%EULA%" NEQ "y" GOTO END
 echo eula=true>eula.txt
 :END
-"jre\jdk-17.0.2+8-jre\bin\java.exe" -javaagent:log4jfix/Log4jPatcher-1.0.0.jar -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -Xmx8192M -Xms4096M @user_jvm_args.txt @libraries\net\minecraftforge\forge\1.18.2-40.2.1\win_args.txt nogui
+"jre\jdk-17.0.2+8-jre\bin\java.exe" -javaagent:log4jfix/Log4jPatcher-1.0.0.jar -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -Xmx12G -Xms8G @user_jvm_args.txt @libraries\net\minecraftforge\forge\1.18.2-40.2.1\win_args.txt nogui

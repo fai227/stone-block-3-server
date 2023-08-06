@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_black_tie": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-07-27 16:53:44 +0900"
@@ -566,6 +572,12 @@
   "farmersdelight:recipes/tools/lead_from_rope": {
     "criteria": {
       "has_rope": "2023-07-28 16:31:24 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_from_slab": {
+    "criteria": {
+      "has_concrete": "2023-08-06 01:31:34 +0900"
     },
     "done": true
   },
@@ -767,6 +779,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_puffy_scarf": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/treated_wood_vertical_from_horizontal": {
     "criteria": {
       "has_treated_wood_horizontal": "2023-07-30 00:29:55 +0900"
@@ -800,6 +818,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2023-07-30 01:09:55 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/stonecutting/stairs_concrete": {
+    "criteria": {
+      "has_concrete": "2023-08-06 01:31:34 +0900"
     },
     "done": true
   },
@@ -917,6 +941,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_red_glasses": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_log_bridge_middle": {
     "criteria": {
       "has_planks": "2023-07-27 16:41:31 +0900"
@@ -938,6 +968,12 @@
   "tconstruct:recipes/tconstruct/general/common/gold_platform": {
     "criteria": {
       "has_gold": "2023-07-27 18:05:54 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/stonecutting/slab_concrete": {
+    "criteria": {
+      "has_concrete": "2023-08-06 01:31:34 +0900"
     },
     "done": true
   },
@@ -1049,6 +1085,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cloud_pendant": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/crafting_station": {
     "criteria": {
       "has_item": "2023-07-27 17:04:19 +0900"
@@ -1058,6 +1100,12 @@
   "botania:recipes/botania/natura_pylon": {
     "criteria": {
       "has_alt_item": "2023-07-30 01:22:13 +0900"
+    },
+    "done": true
+  },
+  "botania:main/kekimurus_pickup": {
+    "criteria": {
+      "kekimurus": "2023-08-06 17:07:04 +0900"
     },
     "done": true
   },
@@ -1250,6 +1298,12 @@
   "create:recipes/create.base/crafting/kinetics/wrench": {
     "criteria": {
       "has_item": "2023-07-27 19:40:09 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/stonecutting/concrete_three_quarter": {
+    "criteria": {
+      "has_concrete": "2023-08-06 01:31:34 +0900"
     },
     "done": true
   },
@@ -1907,6 +1961,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_ancient_mask": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2023-07-27 18:05:57 +0900"
@@ -2291,6 +2351,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_clock_eye": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2023-07-28 02:21:57 +0900"
@@ -2486,6 +2552,12 @@
   "mcwbridges:recipes/deepslate_tile_bridge": {
     "criteria": {
       "has_planks": "2023-07-27 16:41:31 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_botanist_emblem": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -2796,6 +2868,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2023-07-28 02:29:22 +0900"
+    },
+    "done": true
+  },
+  "projecte:transmutation_table": {
+    "criteria": {
+      "trans_table": "2023-08-06 01:36:36 +0900"
     },
     "done": true
   },
@@ -3387,6 +3465,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_kamui_eye": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "botania:recipes/botania/light_gray_shiny_flower": {
     "criteria": {
       "has_item": "2023-07-28 02:02:37 +0900"
@@ -3552,6 +3636,12 @@
   "botania:recipes/botania/drum_gathering": {
     "criteria": {
       "has_alt_item": "2023-07-30 20:20:07 +0900"
+    },
+    "done": true
+  },
+  "create:train_roadkill": {
+    "criteria": {
+      "0": "2023-08-06 00:22:28 +0900"
     },
     "done": true
   },
@@ -3952,6 +4042,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_thinking_hand": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2023-07-27 18:05:57 +0900"
@@ -4108,6 +4204,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_engineer_goggles": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stairs": {
     "criteria": {
       "has_item": "2023-07-28 01:05:51 +0900"
@@ -4168,6 +4270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-08-06 20:24:10 +0900"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/deepslate": {
     "criteria": {
       "has_deepslate": "2023-07-27 16:41:31 +0900"
@@ -4219,6 +4327,12 @@
   "create:rose_quartz": {
     "criteria": {
       "0": "2023-07-28 18:18:41 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_wicked_eyepatch": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -4390,6 +4504,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/manaweave_chestplate": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:39 +0900"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/treated_wood_horizontal_to_slab": {
     "criteria": {
       "has_treated_wood_horizontal": "2023-07-30 00:29:55 +0900"
@@ -4501,6 +4621,7 @@
       "minecraft:vindicator": "2023-07-30 23:26:25 +0900",
       "minecraft:magma_cube": "2023-07-30 23:17:41 +0900",
       "minecraft:spider": "2023-07-31 14:39:58 +0900",
+      "minecraft:piglin_brute": "2023-08-05 23:57:44 +0900",
       "minecraft:creeper": "2023-07-27 17:22:06 +0900",
       "minecraft:slime": "2023-07-28 15:35:52 +0900",
       "minecraft:evoker": "2023-07-30 23:27:25 +0900",
@@ -4578,6 +4699,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_press": {
     "criteria": {
       "has_item": "2023-07-28 01:06:31 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_black_bowtie": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -4746,6 +4873,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/cokebrick": {
     "criteria": {
       "has_item": "2023-07-28 03:08:14 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_anaglyph_glasses": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -4965,6 +5098,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_thick_eyebrows": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_yellow_dye": {
     "criteria": {
       "chest": "2023-07-30 16:05:15 +0900"
@@ -5136,6 +5275,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2023-08-01 01:02:53 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_groucho_glasses": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -5451,6 +5596,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_tile": {
+    "criteria": {
+      "has_concrete": "2023-08-06 01:31:34 +0900"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_structure_rope": {
     "criteria": {
       "has_hemp_fiber": "2023-07-30 20:59:21 +0900"
@@ -5526,6 +5677,12 @@
   "connectedglass:recipes/connectedglass/scratched_glass_white_pane2": {
     "criteria": {
       "recipe_condition2": "2023-07-28 01:25:00 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_polka_dotted_bows": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -5610,6 +5767,12 @@
   "minecraft:recipes/decorations/brown_candle": {
     "criteria": {
       "has_brown_dye": "2023-07-30 06:36:30 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/stonecutting/concrete_sheet": {
+    "criteria": {
+      "has_concrete": "2023-08-06 01:31:34 +0900"
     },
     "done": true
   },
@@ -6035,6 +6198,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cocoon": {
+    "criteria": {
+      "has_item": "2023-08-06 19:37:03 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_green_dye": "2023-07-30 03:05:46 +0900"
@@ -6074,6 +6243,12 @@
   "projecte:recipes/projecte/conversions/aeternalis_fuel_block_deconstruct": {
     "criteria": {
       "has_aeternalis_fuel_block": "2023-07-31 04:55:44 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cobweb": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -6134,6 +6309,12 @@
   "create:recipes/create.base/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2023-07-27 19:40:09 +0900"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/transmutation_tablet": {
+    "criteria": {
+      "has_table": "2023-08-06 01:36:36 +0900"
     },
     "done": true
   },
@@ -6230,6 +6411,12 @@
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2023-07-28 19:29:22 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manaweave_cloth": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -6516,6 +6703,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_cat_ears": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "botania:recipes/botania/cyan_shiny_flower": {
     "criteria": {
       "has_item": "2023-07-27 17:36:38 +0900"
@@ -6699,6 +6892,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_tiny_potato_mask": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-07-27 17:33:51 +0900"
@@ -6726,6 +6925,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2023-07-27 18:05:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-08-06 20:24:10 +0900"
     },
     "done": true
   },
@@ -6855,6 +7060,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/floating_kekimurus": {
+    "criteria": {
+      "has_item": "2023-08-06 17:07:04 +0900"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
     "criteria": {
       "has_logs": "2023-07-28 03:31:43 +0900"
@@ -6954,6 +7165,12 @@
   "extendedexchange:recipes/extendedexchange/compressed_collector/purple": {
     "criteria": {
       "has_item": "2023-07-31 05:19:09 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_red_ribbons": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -7239,6 +7456,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_witch_pin": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-07-30 23:06:02 +0900"
@@ -7344,6 +7567,12 @@
   "botania:recipes/botania/mana_void": {
     "criteria": {
       "has_item": "2023-07-27 19:21:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-08-06 20:24:10 +0900"
     },
     "done": true
   },
@@ -7569,6 +7798,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_to_slab": {
+    "criteria": {
+      "has_concrete": "2023-08-06 01:31:34 +0900"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/dark_oak": {
     "criteria": {
       "has_planks": "2023-07-27 16:41:31 +0900"
@@ -7626,6 +7861,12 @@
   "botania:recipes/botania/thunder_sword": {
     "criteria": {
       "has_terrasteel": "2023-07-30 01:22:13 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_blue_butterfly": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -8484,6 +8725,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_googly_eyes": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2023-07-27 18:05:57 +0900"
@@ -8625,6 +8872,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_head": {
     "criteria": {
       "has_steel_plate": "2023-07-29 23:53:53 +0900"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2023-08-06 00:20:59 +0900"
     },
     "done": true
   },
@@ -8882,6 +9135,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/stonecutting/concrete_quarter": {
+    "criteria": {
+      "has_concrete": "2023-08-06 01:31:34 +0900"
+    },
+    "done": true
+  },
   "constructionwand:recipes/misc/core_destruction": {
     "criteria": {
       "has_item": "2023-07-30 02:14:34 +0900"
@@ -9095,6 +9354,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2023-07-30 18:42:17 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_devil_tail": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -9534,6 +9799,12 @@
   "projecte:philosophers_stone": {
     "criteria": {
       "philosophers_stone": "2023-07-31 00:00:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-08-06 20:24:10 +0900"
     },
     "done": true
   },
@@ -10245,6 +10516,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/manaweave_boots": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:39 +0900"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic_covered": {
     "criteria": {
       "has_vertical_conveyor": "2023-07-29 23:28:29 +0900"
@@ -10293,6 +10570,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_four_leaf_clover": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2023-07-27 17:24:03 +0900"
@@ -10329,6 +10612,12 @@
     },
     "done": true
   },
+  "bloodmagic:recipes/bloodmagictab/path/path_obsidiantile": {
+    "criteria": {
+      "has_archmage_orb": "2023-08-06 03:15:11 +0900"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_fence": {
     "criteria": {
       "has_steel_ingot": "2023-07-29 23:53:21 +0900"
@@ -10338,6 +10627,12 @@
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_netherite_block": "2023-08-04 00:05:19 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_hyper_plus": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -10368,6 +10663,12 @@
   "computercraft:recipes/computercraft/cable": {
     "criteria": {
       "has_computer": "2023-07-31 23:12:55 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_orange_shades": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -10602,6 +10903,12 @@
   "create:recipes/create.base/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2023-07-27 17:24:03 +0900"
+    },
+    "done": true
+  },
+  "extendedexchange:recipes/extendedexchange/refined_link": {
+    "criteria": {
+      "has_item": "2023-08-06 17:44:04 +0900"
     },
     "done": true
   },
@@ -10929,6 +11236,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/manaweave_helmet": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:39 +0900"
+    },
+    "done": true
+  },
   "botania:recipes/botania/brown_shiny_flower": {
     "criteria": {
       "has_item": "2023-07-28 14:51:50 +0900"
@@ -10968,6 +11281,12 @@
   "mcwdoors:recipes/spruce": {
     "criteria": {
       "has_planks": "2023-07-27 16:41:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-08-06 20:24:10 +0900"
     },
     "done": true
   },
@@ -11139,6 +11458,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_alien_antenna": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
     "criteria": {
       "has_logs": "2023-07-28 20:12:56 +0900"
@@ -11160,6 +11485,12 @@
   "mcwbridges:recipes/iron_bridge": {
     "criteria": {
       "has_planks": "2023-07-27 16:41:31 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_eyepatch": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -11323,6 +11654,12 @@
   "botania:recipes/botania/elementium_pickaxe": {
     "criteria": {
       "has_item": "2023-07-30 21:09:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2023-08-06 02:51:42 +0900"
     },
     "done": true
   },
@@ -11627,6 +11964,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/stonecutting/concrete_tile": {
+    "criteria": {
+      "has_concrete": "2023-08-06 01:31:34 +0900"
+    },
+    "done": true
+  },
   "botania:recipes/botania/fabulous_pool": {
     "criteria": {
       "has_alt_item": "2023-07-30 21:09:48 +0900"
@@ -11897,6 +12240,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/spell_cloth": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:39 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2023-07-27 16:59:22 +0900"
@@ -11918,6 +12267,12 @@
   "extendedexchange:recipes/extendedexchange/knowledge_sharing_book": {
     "criteria": {
       "has_item": "2023-07-31 05:17:13 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_lusitanic_shield": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -12092,6 +12447,12 @@
   "ae2:recipes/ae2.main/network/cables/glass_brown": {
     "criteria": {
       "has_dyes/black": "2023-07-30 06:36:30 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_pink_flower_bud": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -12655,6 +13016,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_leaded": {
+    "criteria": {
+      "has_concrete": "2023-08-06 01:31:34 +0900"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_aluminum_to_ingot_aluminum": {
     "criteria": {
       "has_storage_aluminum": "2023-07-31 01:08:46 +0900"
@@ -12667,9 +13034,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stairs_concrete": {
+    "criteria": {
+      "has_concrete": "2023-08-06 01:31:34 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-07-27 16:46:00 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_devil_horns": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -12913,6 +13292,12 @@
     },
     "done": true
   },
+  "extendedexchange:recipes/extendedexchange/compressed_refined_link": {
+    "criteria": {
+      "has_item": "2023-08-06 17:44:55 +0900"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/low_covalence_dust": {
     "criteria": {
       "has_cobble": "2023-07-27 16:46:00 +0900"
@@ -13108,6 +13493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-08-06 20:24:10 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2023-07-27 17:22:07 +0900"
@@ -13204,6 +13595,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/manaweave_leggings": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:39 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2023-07-27 19:40:09 +0900"
@@ -13273,6 +13670,12 @@
   "extendedexchange:recipes/extendedexchange/compressed_collector/magenta": {
     "criteria": {
       "has_item": "2023-07-31 05:04:29 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_questgiver_mark": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },
@@ -13492,9 +13895,21 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_eerie_mask": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
+    },
+    "done": true
+  },
   "extendedexchange:recipes/alchemy/apple_to_carrot": {
     "criteria": {
       "alchemy_table": "2023-07-31 00:06:16 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/teru_teru_bozu": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:39 +0900"
     },
     "done": true
   },
@@ -13555,6 +13970,12 @@
   "botania:recipes/botania/mana_bomb": {
     "criteria": {
       "has_item": "2023-08-04 00:53:39 +0900"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/bloodmagictab/path/path_obsidian": {
+    "criteria": {
+      "has_archmage_orb": "2023-08-06 03:15:11 +0900"
     },
     "done": true
   },
@@ -14089,6 +14510,12 @@
   "projecte:recipes/projecte/dm_leggings": {
     "criteria": {
       "has_matter": "2023-07-28 16:35:16 +0900"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_unicorn_horn": {
+    "criteria": {
+      "has_item": "2023-08-06 19:36:25 +0900"
     },
     "done": true
   },

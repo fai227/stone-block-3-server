@@ -4,19 +4,19 @@
 	god: false
 	nick: ""
 	name: "phi227"
-	last_seen: { dim: "ftbsbc:team/rainier-wiser-stipes", x: 0, y: 0, z: 78, time: 1691087966789L, xRot: 5.68585f, yRot: 1.585083f }
+	last_seen: { dim: "compactmachines:compact_world", x: -1020, y: 51, z: 1032, time: 1691319802995L, xRot: 40.783596f, yRot: -89.366196f }
 	recording: 0
 	teleport_history: [
-		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 10, y: -3, z: 20, time: 1690893025683L, xRot: -55.65534f, yRot: -47.19276f }
-		{ dim: "bloodmagic:dungeon", x: -1003, y: 124, z: 0, time: 1690893603088L, xRot: -19.337337f, yRot: -89.994385f }
-		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 12, y: -2, z: 23, time: 1690896781048L, xRot: -24.633228f, yRot: 154.3028f }
-		{ dim: "bloodmagic:dungeon", x: -1001, y: 124, z: -2, time: 1690896801469L, xRot: -22.556519f, yRot: -18.172607f }
-		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 11, y: -4, z: 19, time: 1690896813181L, xRot: -63.9865f, yRot: 2.1789563f }
 		{ dim: "bloodmagic:dungeon", x: -1026, y: 129, z: 18, time: 1690896975364L, xRot: 6.3095536f, yRot: -55.07251f }
 		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 9, y: -3, z: 20, time: 1690896984289L, xRot: -28.866009f, yRot: -58.66655f }
 		{ dim: "bloodmagic:dungeon", x: -1003, y: 124, z: -1, time: 1690897150641L, xRot: -14.665101f, yRot: -64.98718f }
 		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 11, y: -2, z: 20, time: 1690897166997L, xRot: -51.111023f, yRot: 1.3631016f }
 		{ dim: "bloodmagic:dungeon", x: -1002, y: 124, z: -2, time: 1690897543982L, xRot: -15.547603f, yRot: -51.563232f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: -8, y: 0, z: -16, time: 1691131334194L, xRot: -0.5426516f, yRot: -64.19722f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: -9, y: 0, z: -16, time: 1691131433499L, xRot: 12.71977f, yRot: 172.89622f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 7, y: 0, z: -18, time: 1691167053821L, xRot: 6.1509423f, yRot: -146.24222f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: -3, y: 0, z: -14, time: 1691212043367L, xRot: -16.84606f, yRot: 140.5755f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 2, y: 0, z: -15, time: 1691213327813L, xRot: 7.424161f, yRot: -109.78179f }
 	]
 	homes: { }
 }
