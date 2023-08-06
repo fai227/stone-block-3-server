@@ -1,88 +1,87 @@
-[13:40:54] [INFO ] Loaded script server_scripts:_core/create/crushing.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/create/milling.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/create/mixing.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/create/splashing.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:unify.js in 0.013 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/inworldevent/events/lootbee.js in 0.005 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/inworldevent/events/stick.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/inworldevent/events/tea.js in 0.0 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/inworldevent/events/wanderingtrader.js in 0.014 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/ftb/entity.death.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/inworldevent/init.js in 0.003 s
-[13:40:54] [INFO ] Loaded script server_scripts:clear.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/ars.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/emojiful.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/minecraft.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/summoningrituals.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:recipes.remove.js in 0.0 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/recipes.shaped.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/recipes.shapeless.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:easter_eggs.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/ae2.js in 0.003 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/avaritia.js in 0.007 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/botania.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/botanypots.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/buddingcrystals.js in 0.003 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/chickens.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/compactmachines.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/create.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/enderstorage.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/extendedexchange.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/farmersdelight.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/fluxnetworks.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/ftbdripper.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/funcstorage.js in 0.0 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/gag.js in 0.0 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/immersiveengineering.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/industrialforegoing.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/mekanism.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/powah.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/projecte.js in 0.005 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/refinedstorage.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/soulshards.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/tconstruct.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/tesseract.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:mods/thermal.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:settings.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:unify/create.js in 0.003 s
-[13:40:54] [INFO ] Loaded script server_scripts:unify/createaddition.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:unify/Immersiveengineering.js in 0.003 s
-[13:40:54] [INFO ] Loaded script server_scripts:unify/mekanism.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:unify/minecraft.js in 0.003 s
-[13:40:54] [INFO ] Loaded script server_scripts:unify/thermal.js in 0.003 s
-[13:40:54] [INFO ] Loaded script server_scripts:unify/tinkers.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/anti_block_placement.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/bed.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/block.break.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/boss.js in 0.0 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/cobblegen.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/entity.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/ftb/sbtools/recipes.js in 0.004 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/harderdungeons.js in 0.006 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/inworldevent/utils.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/loottable.js in 0.001 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/nochancecubehere.js in 0.0 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/tags.js in 0.002 s
-[13:40:54] [INFO ] Loaded script server_scripts:_core/train_quest.js in 0.002 s
-[13:40:54] [INFO ] Loaded 66/66 KubeJS server scripts in 0.192 s
-[13:40:54] [INFO ] Scripts loaded
-[13:40:54] [INFO ] Scanning recipes...
-[13:41:17] [INFO ] [fluids] Found 184 tags, added 1 objects, removed 0 objects
-[13:41:17] [INFO ] [fluids] Found 184 tags, added 1 objects, removed 0 objects
-[13:41:19] [INFO ] [entity_types] Found 62 tags, added 6 objects, removed 0 objects
-[13:41:19] [INFO ] [blocks] Found 1030 tags, added 196 objects, removed 1 objects
-[13:41:19] [INFO ] [blocks] Found 1030 tags, added 248 objects, removed 1 objects
-[13:41:20] [INFO ] [items] Found 1623 tags, added 111 objects, removed 1 objects
-[13:41:20] [INFO ] [items] Found 1623 tags, added 111 objects, removed 1 objects
-[13:41:22] [INFO ] [block_entity_type] Found 7 tags, added 135 objects, removed 0 objects
-[13:42:09] [INFO ] Found 16937 recipes and 0 failed recipes in 1.401 s
-[13:42:16] [INFO ] Posted recipe events in 6.947 s
-[13:42:17] [WARN ] Error parsing recipe bloodmagic:arc/reversion/netherite_ingot[bloodmagic:arc]: {"type":"bloodmagic:arc","input":{"tag":"forge:ingots/netherite"},"inputsize":1,"tool":{"tag":"bloodmagic:arc/reverter"},"addedoutput":[{"type":{"item":"minecraft:gold_ingot","count":4,"chance":0.0},"chance":0.0}],"output":{"item":"minecraft:netherite_scrap","count":4},"consumeingredient":false,"mainoutputchance":0.0}: com.google.gson.JsonSyntaxException: Missing mainchance, expected to find a Float
-[13:42:17] [WARN ] Error parsing recipe bloodmagic:arc/dustsfrom_raw_iron[bloodmagic:arc]: {"type":"bloodmagic:arc","input":{"tag":"forge:raw_materials/iron"},"inputsize":1,"tool":{"tag":"bloodmagic:arc/cuttingfluid"},"addedoutput":[{"type":{"item":"mekanism:dust_iron","count":1,"chance":0.17},"chance":0.17}],"output":{"item":"mekanism:dust_iron","count":1},"consumeingredient":false,"mainoutputchance":0.0}: com.google.gson.JsonSyntaxException: Missing mainchance, expected to find a Float
-[13:42:17] [WARN ] Error parsing recipe bloodmagic:arc/dustsfrom_raw_copper[bloodmagic:arc]: {"type":"bloodmagic:arc","input":{"tag":"forge:raw_materials/copper"},"inputsize":1,"tool":{"tag":"bloodmagic:arc/cuttingfluid"},"addedoutput":[{"type":{"item":"thermal:copper_dust","count":1,"chance":0.17},"chance":0.17}],"output":{"item":"thermal:copper_dust","count":1},"consumeingredient":false,"mainoutputchance":0.0}: com.google.gson.JsonSyntaxException: Missing mainchance, expected to find a Float
-[13:42:17] [WARN ] Error parsing recipe extendedexchange:alchemy/lava_bucket_to_obsidian[extendedexchange:alchemy_table]: {"type":"extendedexchange:alchemy_table","input":[{"item":"chickens:liquid_egg","type":"forge:nbt","nbt":"{id:\"minecraft:lava\"}"},{"item":"minecraft:lava_bucket"}],"output":{"item":"minecraft:obsidian"},"emc_override":0,"crafting_time":200}: java.lang.ClassCastException: class com.google.gson.JsonArray cannot be cast to class com.google.gson.JsonObject (com.google.gson.JsonArray and com.google.gson.JsonObject are in module com.google.gson@2.8.9 of loader 'MC-BOOTSTRAP' @4e718207)
-[13:42:17] [WARN ] Error parsing recipe bloodmagic:arc/dustsfrom_raw_gold[bloodmagic:arc]: {"type":"bloodmagic:arc","input":{"tag":"forge:raw_materials/gold"},"inputsize":1,"tool":{"tag":"bloodmagic:arc/cuttingfluid"},"addedoutput":[{"type":{"item":"mekanism:dust_gold","count":1,"chance":0.17},"chance":0.17}],"output":{"item":"mekanism:dust_gold","count":1},"consumeingredient":false,"mainoutputchance":0.0}: com.google.gson.JsonSyntaxException: Missing mainchance, expected to find a Float
-[13:42:17] [INFO ] Modified & removed recipes in 528.3 ms
-[13:42:17] [INFO ] Added recipes in 104.5 ms
-[13:42:17] [INFO ] Added 1212 recipes, removed 1077 recipes, modified 4372 recipes, with 5 failed recipes and 0 fall-backed recipes
-[15:52:53] [ERR  ] Error occurred while handling scheduled event callback: Wrapped java.lang.NullPointerException: Cannot invoke "dev.latvian.mods.rhino.SharedContextData.getExtraProperty(String)" because "cx.sharedContextData" is null (server_scripts:_core/inworldevent/utils.js#36)
+[02:37:02] [INFO ] Loaded script server_scripts:_core/create/crushing.js in 0.001 s
+[02:37:02] [INFO ] Loaded script server_scripts:_core/create/milling.js in 0.001 s
+[02:37:02] [INFO ] Loaded script server_scripts:_core/create/mixing.js in 0.0 s
+[02:37:02] [INFO ] Loaded script server_scripts:_core/create/splashing.js in 0.0 s
+[02:37:02] [INFO ] Loaded script server_scripts:unify.js in 0.005 s
+[02:37:02] [INFO ] Loaded script server_scripts:_core/inworldevent/events/lootbee.js in 0.004 s
+[02:37:02] [INFO ] Loaded script server_scripts:_core/inworldevent/events/stick.js in 0.002 s
+[02:37:02] [INFO ] Loaded script server_scripts:_core/inworldevent/events/tea.js in 0.001 s
+[02:37:02] [INFO ] Loaded script server_scripts:_core/inworldevent/events/wanderingtrader.js in 0.003 s
+[02:37:02] [INFO ] Loaded script server_scripts:_core/ftb/entity.death.js in 0.001 s
+[02:37:02] [INFO ] Loaded script server_scripts:_core/inworldevent/init.js in 0.003 s
+[02:37:02] [INFO ] Loaded script server_scripts:clear.js in 0.001 s
+[02:37:02] [INFO ] Loaded script server_scripts:mods/ars.js in 0.002 s
+[02:37:02] [INFO ] Loaded script server_scripts:mods/emojiful.js in 0.001 s
+[02:37:02] [INFO ] Loaded script server_scripts:mods/minecraft.js in 0.001 s
+[02:37:02] [INFO ] Loaded script server_scripts:mods/summoningrituals.js in 0.001 s
+[02:37:02] [INFO ] Loaded script server_scripts:recipes.remove.js in 0.0 s
+[02:37:02] [INFO ] Loaded script server_scripts:_core/recipes.shaped.js in 0.001 s
+[02:37:02] [INFO ] Loaded script server_scripts:_core/recipes.shapeless.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:easter_eggs.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/ae2.js in 0.002 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/avaritia.js in 0.004 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/botania.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/botanypots.js in 0.002 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/buddingcrystals.js in 0.002 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/chickens.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/compactmachines.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/create.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/enderstorage.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/extendedexchange.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/farmersdelight.js in 0.0 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/fluxnetworks.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/ftbdripper.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/funcstorage.js in 0.0 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/gag.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/immersiveengineering.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/industrialforegoing.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/mekanism.js in 0.0 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/powah.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/projecte.js in 0.003 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/refinedstorage.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/soulshards.js in 0.0 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/tconstruct.js in 0.0 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/tesseract.js in 0.0 s
+[02:37:03] [INFO ] Loaded script server_scripts:mods/thermal.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:settings.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:unify/create.js in 0.003 s
+[02:37:03] [INFO ] Loaded script server_scripts:unify/createaddition.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:unify/Immersiveengineering.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:unify/mekanism.js in 0.002 s
+[02:37:03] [INFO ] Loaded script server_scripts:unify/minecraft.js in 0.003 s
+[02:37:03] [INFO ] Loaded script server_scripts:unify/thermal.js in 0.002 s
+[02:37:03] [INFO ] Loaded script server_scripts:unify/tinkers.js in 0.002 s
+[02:37:03] [INFO ] Loaded script server_scripts:_core/anti_block_placement.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:_core/bed.js in 0.0 s
+[02:37:03] [INFO ] Loaded script server_scripts:_core/block.break.js in 0.0 s
+[02:37:03] [INFO ] Loaded script server_scripts:_core/boss.js in 0.0 s
+[02:37:03] [INFO ] Loaded script server_scripts:_core/cobblegen.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:_core/entity.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:_core/ftb/sbtools/recipes.js in 0.003 s
+[02:37:03] [INFO ] Loaded script server_scripts:_core/harderdungeons.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:_core/inworldevent/utils.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:_core/loottable.js in 0.0 s
+[02:37:03] [INFO ] Loaded script server_scripts:_core/nochancecubehere.js in 0.0 s
+[02:37:03] [INFO ] Loaded script server_scripts:_core/tags.js in 0.001 s
+[02:37:03] [INFO ] Loaded script server_scripts:_core/train_quest.js in 0.002 s
+[02:37:03] [INFO ] Loaded 66/66 KubeJS server scripts in 0.132 s
+[02:37:03] [INFO ] Scripts loaded
+[02:37:03] [INFO ] Scanning recipes...
+[02:37:13] [INFO ] [fluids] Found 184 tags, added 1 objects, removed 0 objects
+[02:37:13] [INFO ] [fluids] Found 184 tags, added 1 objects, removed 0 objects
+[02:37:17] [INFO ] [entity_types] Found 62 tags, added 6 objects, removed 0 objects
+[02:37:18] [INFO ] [blocks] Found 1030 tags, added 196 objects, removed 1 objects
+[02:37:18] [INFO ] [blocks] Found 1030 tags, added 248 objects, removed 1 objects
+[02:37:19] [INFO ] [items] Found 1623 tags, added 111 objects, removed 1 objects
+[02:37:19] [INFO ] [items] Found 1623 tags, added 111 objects, removed 1 objects
+[02:37:20] [INFO ] [block_entity_type] Found 7 tags, added 135 objects, removed 0 objects
+[02:38:08] [INFO ] Found 16937 recipes and 0 failed recipes in 586.1 ms
+[02:38:15] [INFO ] Posted recipe events in 6.902 s
+[02:38:15] [WARN ] Error parsing recipe bloodmagic:arc/reversion/netherite_ingot[bloodmagic:arc]: {"type":"bloodmagic:arc","input":{"tag":"forge:ingots/netherite"},"inputsize":1,"tool":{"tag":"bloodmagic:arc/reverter"},"addedoutput":[{"type":{"item":"minecraft:gold_ingot","count":4,"chance":0.0},"chance":0.0}],"output":{"item":"minecraft:netherite_scrap","count":4},"consumeingredient":false,"mainoutputchance":0.0}: com.google.gson.JsonSyntaxException: Missing mainchance, expected to find a Float
+[02:38:15] [WARN ] Error parsing recipe bloodmagic:arc/dustsfrom_raw_iron[bloodmagic:arc]: {"type":"bloodmagic:arc","input":{"tag":"forge:raw_materials/iron"},"inputsize":1,"tool":{"tag":"bloodmagic:arc/cuttingfluid"},"addedoutput":[{"type":{"item":"mekanism:dust_iron","count":1,"chance":0.17},"chance":0.17}],"output":{"item":"mekanism:dust_iron","count":1},"consumeingredient":false,"mainoutputchance":0.0}: com.google.gson.JsonSyntaxException: Missing mainchance, expected to find a Float
+[02:38:15] [WARN ] Error parsing recipe bloodmagic:arc/dustsfrom_raw_copper[bloodmagic:arc]: {"type":"bloodmagic:arc","input":{"tag":"forge:raw_materials/copper"},"inputsize":1,"tool":{"tag":"bloodmagic:arc/cuttingfluid"},"addedoutput":[{"type":{"item":"thermal:copper_dust","count":1,"chance":0.17},"chance":0.17}],"output":{"item":"thermal:copper_dust","count":1},"consumeingredient":false,"mainoutputchance":0.0}: com.google.gson.JsonSyntaxException: Missing mainchance, expected to find a Float
+[02:38:15] [WARN ] Error parsing recipe extendedexchange:alchemy/lava_bucket_to_obsidian[extendedexchange:alchemy_table]: {"type":"extendedexchange:alchemy_table","input":[{"item":"chickens:liquid_egg","type":"forge:nbt","nbt":"{id:\"minecraft:lava\"}"},{"item":"minecraft:lava_bucket"}],"output":{"item":"minecraft:obsidian"},"emc_override":0,"crafting_time":200}: java.lang.ClassCastException: class com.google.gson.JsonArray cannot be cast to class com.google.gson.JsonObject (com.google.gson.JsonArray and com.google.gson.JsonObject are in module com.google.gson@2.8.9 of loader 'MC-BOOTSTRAP' @4e718207)
+[02:38:15] [WARN ] Error parsing recipe bloodmagic:arc/dustsfrom_raw_gold[bloodmagic:arc]: {"type":"bloodmagic:arc","input":{"tag":"forge:raw_materials/gold"},"inputsize":1,"tool":{"tag":"bloodmagic:arc/cuttingfluid"},"addedoutput":[{"type":{"item":"mekanism:dust_gold","count":1,"chance":0.17},"chance":0.17}],"output":{"item":"mekanism:dust_gold","count":1},"consumeingredient":false,"mainoutputchance":0.0}: com.google.gson.JsonSyntaxException: Missing mainchance, expected to find a Float
+[02:38:15] [INFO ] Modified & removed recipes in 416.6 ms
+[02:38:15] [INFO ] Added recipes in 33.82 ms
+[02:38:15] [INFO ] Added 1212 recipes, removed 1134 recipes, modified 4566 recipes, with 5 failed recipes and 0 fall-backed recipes

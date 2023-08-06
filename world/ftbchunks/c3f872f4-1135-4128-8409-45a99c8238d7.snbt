@@ -1,7 +1,7 @@
 {
 	max_claim_chunks: 500
 	max_force_load_chunks: 100
-	last_login_time: 1691320572640L
+	last_login_time: 1691343558585L
 	chunks: {
 		"compactmachines:compact_world": [
 			{ x: 64, z: -64, time: 1690960066206L, force_loaded: 1691212897175L }

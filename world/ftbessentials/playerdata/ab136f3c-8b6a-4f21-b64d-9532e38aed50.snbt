@@ -4,19 +4,19 @@
 	god: false
 	nick: ""
 	name: "phi227"
-	last_seen: { dim: "compactmachines:compact_world", x: -1020, y: 51, z: 1032, time: 1691319802995L, xRot: 40.783596f, yRot: -89.366196f }
+	last_seen: { dim: "ftbsbc:team/rainier-wiser-stipes", x: 3, y: 0, z: -18, time: 1691345550897L, xRot: -11.888886f, yRot: -3.2851562f }
 	recording: 0
 	teleport_history: [
-		{ dim: "bloodmagic:dungeon", x: -1026, y: 129, z: 18, time: 1690896975364L, xRot: 6.3095536f, yRot: -55.07251f }
-		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 9, y: -3, z: 20, time: 1690896984289L, xRot: -28.866009f, yRot: -58.66655f }
-		{ dim: "bloodmagic:dungeon", x: -1003, y: 124, z: -1, time: 1690897150641L, xRot: -14.665101f, yRot: -64.98718f }
-		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 11, y: -2, z: 20, time: 1690897166997L, xRot: -51.111023f, yRot: 1.3631016f }
 		{ dim: "bloodmagic:dungeon", x: -1002, y: 124, z: -2, time: 1690897543982L, xRot: -15.547603f, yRot: -51.563232f }
 		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: -8, y: 0, z: -16, time: 1691131334194L, xRot: -0.5426516f, yRot: -64.19722f }
 		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: -9, y: 0, z: -16, time: 1691131433499L, xRot: 12.71977f, yRot: 172.89622f }
 		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 7, y: 0, z: -18, time: 1691167053821L, xRot: 6.1509423f, yRot: -146.24222f }
 		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: -3, y: 0, z: -14, time: 1691212043367L, xRot: -16.84606f, yRot: 140.5755f }
 		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 2, y: 0, z: -15, time: 1691213327813L, xRot: 7.424161f, yRot: -109.78179f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: -19, y: 128, z: 9, time: 1691341556617L, xRot: 50.75049f, yRot: -137.95851f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 19, y: -3, z: 238, time: 1691343018252L, xRot: 20.53176f, yRot: 102.76666f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 9, y: 0, z: -18, time: 1691344076749L, xRot: 10.643017f, yRot: 64.319885f }
+		{ dim: "ftbsbc:team/rainier-wiser-stipes", x: 15, y: -3, z: 241, time: 1691344537992L, xRot: 6.281745f, yRot: 169.26727f }
 	]
 	homes: { }
 }
